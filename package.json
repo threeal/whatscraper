@@ -12,5 +12,15 @@
   "bin": {
     "whatscraper": "lib/whatscraper.js"
   },
-  "repository": "github:threeal/google-rank"
+  "repository": "github:threeal/google-rank",
+  "scripts": {
+    "build": "dev build",
+    "clean": "dev clean",
+    "format": "dev format",
+    "lint": "dev lint",
+    "test": "dev test"
+  },
+  "devDependencies": {
+    "@actions-kit/dev": "^0.2.0"
+  }
 }
