@@ -1,0 +1,23 @@
+{
+  "name": "whatscraper",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "author": "",
+  "license": "MIT",
+  "scripts": {
+    "build": "dev build",
+    "clean": "dev clean",
+    "format": "dev format",
+    "lint": "dev lint",
+    "test": "dev test"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "venom-bot": "^5.0.11"
+  },
+  "devDependencies": {
+    "@actions-kit/dev": "^0.2.0",
+    "@types/spinnies": "^0.5.0"
+  }
+}
