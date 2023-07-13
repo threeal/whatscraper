@@ -1,5 +1,7 @@
 # WhatScraper
 
+[![build status](https://img.shields.io/github/actions/workflow/status/threeal/whatscraper/build.yaml?branch=main&style=flat-square)](https://github.com/threeal/whatscraper/actions/workflows/build.yaml)
+
 WhatScraper is a tool designed to retrieve contacts, groups, and chats from your [WhatsApp](https://www.whatsapp.com/) account.
 
 ## License

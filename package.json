@@ -1,0 +1,27 @@
+{
+  "name": "whatscraper",
+  "version": "0.1.0",
+  "description": " Retrieve contacts, groups, and chats from your WhatsApp account",
+  "homepage": "https://github.com/threeal/whatscraper",
+  "bugs": {
+    "url": "https://github.com/threeal/whatscraper/issues",
+    "email": "alfi.maulana.f@gmail.com"
+  },
+  "license": "MIT",
+  "author": "Alfi Maulana <alfi.maulana.f@gmail.com> (https://github.com/threeal)",
+  "bin": {
+    "whatscraper": "lib/whatscraper.js"
+  },
+  "repository": "github:threeal/google-rank",
+  "scripts": {
+    "build": "dev build && chmod-cli lib/whatscraper.js -m 0o777",
+    "clean": "dev clean",
+    "format": "dev format",
+    "lint": "dev lint",
+    "test": "dev test"
+  },
+  "devDependencies": {
+    "@actions-kit/dev": "^0.2.0",
+    "chmod-cli": "^1.0.4"
+  }
+}
