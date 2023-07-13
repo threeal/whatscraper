@@ -1,0 +1,9 @@
+{
+  "extends": "@actions-kit/dev/tsconfig.json",
+  "compilerOptions": {
+    "allowJs": true,
+    "outDir": "lib"
+  },
+  "include": ["src"],
+  "exclude": ["**/*.test.ts"]
+}
