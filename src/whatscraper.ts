@@ -1,41 +1,50 @@
 #!/usr/bin/env node
 
-import chalk from "chalk";
 import * as venom from "venom-bot";
-import { Chat, getPersonalChatsSince } from "./utils";
-import { getFirstMessage } from "./utils/get_messages";
+import { getFirstNSimpleMessages, getPersonalChats, setupDatabase } from "./utils/index.js";
 
-const startDate = new Date("2023-07-05");
-const endDate = new Date("2023-07-12");
+const startDate = new Date("2023-07-13");
+const endDate = new Date("2023-07-16");
 async function launch() {
   process.stdout.write("Initializing venom client...\n");
   const client = await venom.create({headless:false, session: "test"});
 
-  process.stdout.write(`Getting personal chat since ${startDate.toLocaleDateString()}...\n`);
-  const chats = await getPersonalChatsSince(client, startDate);
+  process.stdout.write("Initializing database...\n");
+  const db = await setupDatabase();
 
-  process.stdout.write(`Found ${chats.length} chats\n`);
+  process.stdout.write(`Getting personal chat since ${startDate.toLocaleDateString()}...\n`);
+  const chats = await getPersonalChats(client);
+
+  const newChatCounts = chats.length - Object.keys(db.data.contacts).length;
+  process.stdout.write(`Found ${chats.length} chats, ${newChatCounts} new chats\n`);
   for (const chat of chats) {
     const date = new Date(chat.timestamp);
-    process.stdout.write(`  ${date.toLocaleDateString()} ${chat.id} ${chat.name}\n`);
+    process.stdout.write(`  ${date.toLocaleDateString()} ${date.toLocaleTimeString()} ${chat.id} ${chat.name}\n`);
   }
   process.stdout.write("\n");
-  process.stdout.write(`Get first message from each chat concurrently...\n`);
-  const chatProms: [Chat, Promise<venom.Message | undefined>][] = [];
-  for (const chat of chats) {
-    const prom = getFirstMessage(client, chat.id, startDate, endDate);
-    chatProms.push([chat, prom]);
-  }
 
-  for (const [chat, prom] of chatProms) {
-    const message = await prom;
-    if (message === undefined) {
-      process.stdout.write(chalk.blackBright(`${chat.id} ${chat.name}: no message\n`));
-    } else {
-      const date = new Date(message.timestamp * 1000);
-      process.stdout.write(`${chat.id} ${chat.name}: on ${date.toLocaleDateString()} ${date.toLocaleTimeString()}\n`);
-      process.stdout.write(`${message.body}\n\n`);
+  process.stdout.write(`Get first 6 messages from each chat concurrently...\n`);
+  let i = 0;
+  for (const chat of chats) {
+    if (Number.isNaN(chat.timestamp)) {
+      continue;
     }
+
+    if (chat.id in db.data.contacts) {
+      if (db.data.contacts[chat.id].firstNMessages.length > 0) {
+        process.stdout.write(`skipping ${++i} ${chat.id}\n`);
+        continue;
+      }
+    }
+
+    const messages = await getFirstNSimpleMessages(client, 6, chat.id, startDate, endDate);
+
+    db.data.contacts[chat.id] = {
+      lastChatTimestamp: chat.timestamp,
+      firstNMessages: messages,
+    };
+    await db.write();
+    process.stdout.write(`processed ${++i} ${chat.id} ${messages.length}\n`);
   }
 
   process.stdout.write("Done");

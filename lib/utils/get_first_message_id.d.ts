@@ -1,1 +1,3 @@
-export function getFirstMessageId(chatId: any, startTimestamp: any): Promise<any>;
+export function getFirstMessageId(chatId: any, startTimestamp: any): Promise<{
+    id: any;
+} | undefined>;
