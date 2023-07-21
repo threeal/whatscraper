@@ -1,9 +1,9 @@
 #!/usr/bin/env node
 
-import * as venom from "venom-bot";
+import * as commands from "./commands";
 
 async function launch() {
-  await venom.create({ headless: false, session: "default" });
+  await commands.selectCommand();
 }
 
 launch();
