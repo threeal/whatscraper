@@ -25,6 +25,7 @@
     "chmod-cli": "^1.0.4"
   },
   "dependencies": {
+    "@inquirer/select": "^1.2.5",
     "@types/spinnies": "^0.5.0",
     "venom-bot": "^5.0.11"
   }
