@@ -1,1 +1,0 @@
-export { selectCommand } from "./root";
