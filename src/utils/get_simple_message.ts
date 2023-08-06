@@ -26,6 +26,9 @@ export async function getFirstNSimpleMessages(client: Whatsapp, n: number, chatI
       case "document":
         content = `[${message.filename}] ${message.caption}`;
         break;
+      case "video":
+        content = `[video] ${message.caption}`;
+        break;
       case "image":
         content = message.caption;
         break;
@@ -40,6 +43,27 @@ export async function getFirstNSimpleMessages(client: Whatsapp, n: number, chatI
         break;
       case "ptt":
         content = "[voice note]";
+        break;
+      case "vcard":
+        content = "[vcard]";
+        break;
+      case "audio":
+        content = "[audio]";
+        break;
+      case "location":
+        content = "[location]";
+        break;
+      case "product":
+        content = "[product]";
+        break;
+      case "e2e_notification":
+        content = "[e2e_notification]";
+        break;
+      case "gp2":
+        content = "[gp2]";
+        break;
+      case "poll_creation":
+        content = "[poll_creation]";
         break;
       default:
         content = JSON.stringify(message);
