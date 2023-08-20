@@ -19,7 +19,6 @@
     "test": "jest"
   },
   "devDependencies": {
-    "@actions-kit/dev": "^0.2.0",
     "@types/jest": "^29.5.3",
     "@typescript-eslint/eslint-plugin": "^6.4.0",
     "@typescript-eslint/parser": "^6.4.0",
