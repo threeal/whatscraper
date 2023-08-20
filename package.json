@@ -16,7 +16,7 @@
     "clean": "dev clean",
     "format": "prettier --write .",
     "lint": "eslint src",
-    "test": "dev test"
+    "test": "jest"
   },
   "devDependencies": {
     "@actions-kit/dev": "^0.2.0",
