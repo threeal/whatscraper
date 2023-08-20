@@ -1,7 +1,12 @@
 {
-  "extends": "@actions-kit/dev/tsconfig.json",
   "compilerOptions": {
+    "strict": true,
+    "module": "CommonJS",
+    "declaration": true,
     "outDir": "lib",
+    "sourceMap": true,
+    "esModuleInterop": true,
+    "target": "ES2021",
     "skipLibCheck": true
   },
   "include": ["src"],

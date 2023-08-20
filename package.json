@@ -12,14 +12,13 @@
   "bin": "lib/whatscraper.js",
   "repository": "github:threeal/google-rank",
   "scripts": {
-    "build": "dev build && chmod-cli lib/whatscraper.js -m 0o777",
-    "clean": "dev clean",
-    "format": "dev format",
-    "lint": "dev lint",
-    "test": "dev test"
+    "build": "tsc && chmod-cli lib/whatscraper.js -m 0o777",
+    "clean": "rimraf lib",
+    "format": "prettier --write .",
+    "lint": "eslint src",
+    "test": "jest"
   },
   "devDependencies": {
-    "@actions-kit/dev": "^0.2.0",
     "@types/jest": "^29.5.3",
     "@typescript-eslint/eslint-plugin": "^6.4.0",
     "@typescript-eslint/parser": "^6.4.0",

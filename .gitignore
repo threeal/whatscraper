@@ -1,8 +1,7 @@
 .*
 !.eslint*
 !.git*
-
-tsconfig.eslint.json
+!.prettier*
 
 coverage/
 node_modules/
