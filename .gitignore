@@ -3,8 +3,6 @@
 !.git*
 !.prettier*
 
-tsconfig.eslint.json
-
 coverage/
 node_modules/
 tokens/

@@ -15,7 +15,7 @@
     "build": "dev build && chmod-cli lib/whatscraper.js -m 0o777",
     "clean": "dev clean",
     "format": "prettier --write .",
-    "lint": "dev lint",
+    "lint": "eslint src",
     "test": "dev test"
   },
   "devDependencies": {
