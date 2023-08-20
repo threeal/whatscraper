@@ -13,7 +13,7 @@
   "repository": "github:threeal/google-rank",
   "scripts": {
     "build": "tsc && chmod-cli lib/whatscraper.js -m 0o777",
-    "clean": "dev clean",
+    "clean": "rimraf lib",
     "format": "prettier --write .",
     "lint": "eslint src",
     "test": "jest"
