@@ -14,7 +14,7 @@
   "scripts": {
     "build": "dev build && chmod-cli lib/whatscraper.js -m 0o777",
     "clean": "dev clean",
-    "format": "dev format",
+    "format": "prettier --write .",
     "lint": "dev lint",
     "test": "dev test"
   },
