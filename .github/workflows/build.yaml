@@ -27,7 +27,7 @@ jobs:
         run: yarn install
 
       - name: Check format
-        run: yarn format
+        run: yarn sort && yarn format
 
       - name: Check lint
         run: yarn lint
