@@ -12,10 +12,11 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3.6.0
 
-      - name: Setup Yarn
-        run: |
-          corepack enable
-          corepack prepare yarn@stable --activate
+      - name: Enable Corepack
+        run: corepack enable
+
+      - name: Update Yarn
+        run: yarn set version stable
 
       - name: Cache deps
         uses: actions/cache@v3.3.1
