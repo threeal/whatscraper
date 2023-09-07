@@ -3,8 +3,8 @@
 import * as venom from "venom-bot";
 import { getFirstNSimpleMessages, getPersonalChats, setupDatabase } from "./utils/index.js";
 
-const startDate = new Date("2023-07-31");
-const endDate = new Date("2023-08-07");
+const startDate = new Date("2023-08-28");
+const endDate = new Date("2024-01-01");
 async function launch() {
   process.stdout.write("Initializing venom client...\n");
   const client = await venom.create({headless:false, session: "test"});

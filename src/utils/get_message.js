@@ -1,10 +1,9 @@
 export async function getFirstNMessages(chatId, n, startTimestamp, endTimestamp) {
-  const chat = WAPI.getChat(chatId);
-
-  const getFirstMessageId = async (chat, startTimestamp) => {
+  const getFirstMessageId = async (startTimestamp) => {
     let id = undefined;
     let count = 0;
     while (true) {
+      const chat = await WAPI.getChat(chatId);
       for (const model of chat.msgs._models) {
         if (model.type.includes('notif')) continue;
         if (model.type === 'gp2') continue;
@@ -24,8 +23,9 @@ export async function getFirstNMessages(chatId, n, startTimestamp, endTimestamp)
     }
   }
 
-  const messageId = await getFirstMessageId(chat, startTimestamp);
+  const messageId = await getFirstMessageId(startTimestamp);
   if (messageId !== undefined) {
+    const chat = await WAPI.getChat(chatId);
     for (const [index, model] of chat.msgs._models.entries()) {
       if (model.id._serialized === messageId) {
         const messages = chat.msgs._models

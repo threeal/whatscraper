@@ -16,7 +16,7 @@
   "dependencies": {
     "chalk": "^4.1.2",
     "lowdb": "^6.0.1",
-    "venom-bot": "^5.0.11"
+    "venom-bot": "^5.0.17"
   },
   "devDependencies": {
     "@actions-kit/dev": "^0.2.0",

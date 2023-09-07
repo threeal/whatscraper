@@ -1,7 +1,7 @@
 import { setupDatabase } from "./utils/index.js";
 
-const startDate = new Date("2023-07-31");
-const endDate = new Date("2023-08-07");
+const startDate = new Date("2023-08-28");
+const endDate = new Date("2023-09-04");
 const startTimestamp = startDate.getTime();
 const endTimestamp = endDate.getTime();
 
@@ -76,6 +76,15 @@ setupDatabase().then(db => {
     "Hello Mediamaz Work (SC)": 0,
     "Halo Mediamaz Work": 0,
     "Hallo Penerjemah Website (Microsite)": 0,
+    "Mediamaz Translation Service (ps)": 0,
+    "(SC) Halo, saya mau tanya terkait Interpreter": 0,
+    "(SC) Halo, saya ingin tanya soal Bootcamp": 0,
+    "(SC) Halo Mediamaz": 0,
+    "(SC) Halo, Apa Diskon Bootcamp untuk mahasiswa Unas masih?": 0,
+    "(SC) Halo, Apa Diskon Bootcampnya masih?" : 0,
+    "(SC) Halo, saya mau daftar lowongan (Penerjemah Dokumen/Interpreter)": 0,
+    "(SC) Halo Times Penerjemah": 0,
+    "(SC) Hallo Mega Penerjemah": 0
   };
 
   const unknownChats: Chat[] = [];
@@ -83,7 +92,7 @@ setupDatabase().then(db => {
     let unknown = true;
     if (chat.firstMessage !== undefined) {
       for (const category in categories) {
-        if (chat.firstMessage.includes(category)) {
+        if (chat.firstMessage.toLowerCase().includes(category.toLowerCase())) {
           ++categories[category];
           unknown = false;
           break;

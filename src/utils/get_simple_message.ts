@@ -65,6 +65,15 @@ export async function getFirstNSimpleMessages(client: Whatsapp, n: number, chatI
       case "poll_creation":
         content = "[poll_creation]";
         break;
+      case "multi_vcard":
+        content = "[multi_vcard]";
+        break;
+      case "unknown":
+        content = "[unknown]";
+        break;
+      case "ciphertext":
+        content = "[ciphertext]";
+        break;
       default:
         content = JSON.stringify(message);
     }
