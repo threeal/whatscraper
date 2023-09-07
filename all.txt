@@ -1,0 +1,1705 @@
+Initializing venom client...
+You're up to date 🎉🎉🎉
+Path Google-Chrome:  /Applications/Google Chrome.app/Contents/MacOS/Google Chrome
+Chrome Version: Chrome/114.0.5735.198
+aqui
+✓ Browser successfully opened
+✓ headless option is disabled, browser visible
+✓ Page successfully accessed
+Getting personal chat since 7/10/2023...
+✓ Successfully connected!
+✓ [instance: test]: Connected
+✓ Successfully main page!
+Found 500 chats
+  7/13/2023 62818262309@c.us undefined
+  7/13/2023 6281328670780@c.us undefined
+  7/13/2023 6285280806658@c.us undefined
+  7/13/2023 62895710730206@c.us undefined
+  7/13/2023 6281293295339@c.us undefined
+  7/13/2023 821076302078@c.us undefined
+  7/13/2023 628111289366@c.us undefined
+  7/13/2023 6281214301867@c.us undefined
+  7/13/2023 62895394408967@c.us undefined
+  7/13/2023 6281288133735@c.us undefined
+  7/13/2023 6285658304874@c.us undefined
+  7/13/2023 6285702413686@c.us undefined
+  7/13/2023 6285692334090@c.us undefined
+  7/13/2023 628119923586@c.us undefined
+  7/13/2023 628155720192@c.us undefined
+  7/13/2023 6285290315500@c.us Edward Manurung Client
+  7/13/2023 6281218808143@c.us undefined
+  7/13/2023 6281380656222@c.us undefined
+  7/13/2023 6283895821547@c.us undefined
+  7/13/2023 6285212145349@c.us undefined
+  7/13/2023 6287870706000@c.us undefined
+  7/13/2023 6288902927993@c.us undefined
+  7/13/2023 6289631957104@c.us undefined
+  7/13/2023 6282281239893@c.us undefined
+  7/13/2023 6586167614@c.us undefined
+  7/13/2023 628817665896@c.us undefined
+  7/13/2023 6282246475750@c.us undefined
+  7/13/2023 6289529121704@c.us Arul Rezaldi
+  7/13/2023 37128342203@c.us undefined
+  7/13/2023 6282213503451@c.us undefined
+  7/13/2023 6281316404804@c.us Panca Tirta Yasa
+  7/13/2023 6285752746084@c.us undefined
+  7/13/2023 6281296087690@c.us undefined
+  7/13/2023 628176612847@c.us undefined
+  7/13/2023 966538294716@c.us undefined
+  7/13/2023 6285838479382@c.us undefined
+  7/13/2023 6285172151616@c.us undefined
+  7/13/2023 6283874561521@c.us undefined
+  7/13/2023 6281381593689@c.us undefined
+  7/13/2023 6287878222555@c.us undefined
+  7/13/2023 6591030481@c.us undefined
+  7/13/2023 6281517027007@c.us undefined
+  7/13/2023 6287771102228@c.us undefined
+  7/13/2023 6281252686225@c.us undefined
+  7/13/2023 6289522655711@c.us undefined
+  7/13/2023 6289679465376@c.us undefined
+  7/13/2023 6285659587362@c.us undefined
+  7/13/2023 6282137683823@c.us undefined
+  7/13/2023 62881038015020@c.us undefined
+  7/13/2023 6281311334926@c.us undefined
+  7/13/2023 6281234599179@c.us undefined
+  7/13/2023 628111737343@c.us undefined
+  7/13/2023 628194001878@c.us undefined
+  7/13/2023 6289635938661@c.us undefined
+  7/13/2023 62895391582897@c.us undefined
+  7/13/2023 628174881643@c.us undefined
+  7/13/2023 6285643021030@c.us undefined
+  7/13/2023 6283871504386@c.us undefined
+  7/13/2023 6285782013684@c.us undefined
+  7/13/2023 6281933633789@c.us undefined
+  7/13/2023 628119957872@c.us undefined
+  7/13/2023 6285710679548@c.us undefined
+  7/13/2023 6287808771188@c.us Robi Client
+  7/13/2023 628119000588@c.us undefined
+  7/13/2023 4917624716733@c.us undefined
+  7/13/2023 6283804484809@c.us undefined
+  7/13/2023 6281348608708@c.us undefined
+  7/13/2023 628121731069@c.us undefined
+  7/13/2023 6281573944773@c.us undefined
+  7/13/2023 966566845714@c.us undefined
+  7/13/2023 6282241992415@c.us undefined
+  7/13/2023 6285669546510@c.us Dewi Mz
+  7/13/2023 6281287969121@c.us undefined
+  7/13/2023 6285158164644@c.us undefined
+  7/13/2023 6287784125874@c.us undefined
+  7/13/2023 6282146295945@c.us undefined
+  7/13/2023 6281231709791@c.us undefined
+  7/13/2023 819078293234@c.us undefined
+  7/13/2023 6287885965009@c.us undefined
+  7/13/2023 818043429128@c.us undefined
+  7/13/2023 6285217538858@c.us undefined
+  7/13/2023 628159157147@c.us undefined
+  7/13/2023 628179112005@c.us undefined
+  7/13/2023 6285750544722@c.us undefined
+  7/13/2023 628111960621@c.us undefined
+  7/13/2023 6285253816064@c.us undefined
+  7/13/2023 628126415808@c.us undefined
+  7/13/2023 62895634657818@c.us undefined
+  7/13/2023 6281288913717@c.us undefined
+  7/13/2023 6285370881394@c.us undefined
+  7/13/2023 6281388688703@c.us undefined
+  7/13/2023 6281360627306@c.us undefined
+  7/13/2023 6281717172682@c.us undefined
+  7/13/2023 6289667018999@c.us undefined
+  7/13/2023 6285780943869@c.us undefined
+  7/13/2023 6285710552265@c.us Ibu Suci Liu Weiqing
+  7/13/2023 6281524970848@c.us undefined
+  7/13/2023 6281220102588@c.us undefined
+  7/13/2023 6285158422908@c.us Jeje
+  7/13/2023 6281220323204@c.us Dicky
+  7/13/2023 6289649374893@c.us undefined
+  7/13/2023 6287875654646@c.us undefined
+  7/13/2023 6285726716127@c.us undefined
+  7/13/2023 6285100291755@c.us undefined
+  7/13/2023 6281291554352@c.us undefined
+  7/13/2023 6281295996599@c.us undefined
+  7/13/2023 6289635407058@c.us undefined
+  7/13/2023 6281223596143@c.us undefined
+  7/13/2023 628116111568@c.us undefined
+  7/13/2023 62895424401166@c.us undefined
+  7/13/2023 6281904991280@c.us undefined
+  7/13/2023 6282133262006@c.us Ramadhani
+  7/13/2023 6282352388577@c.us undefined
+  7/13/2023 6282208242939@c.us undefined
+  7/13/2023 6281319917278@c.us undefined
+  7/13/2023 6282111142024@c.us Hani Mz
+  7/13/2023 62818621338@c.us undefined
+  7/13/2023 6281383711015@c.us undefined
+  7/13/2023 6285731301606@c.us undefined
+  7/13/2023 6281523878182@c.us undefined
+  7/13/2023 6282213070400@c.us Bang Daeli
+  7/13/2023 6285718062175@c.us undefined
+  7/13/2023 6281213262414@c.us Ester Harefa
+  7/13/2023 6281933197919@c.us undefined
+  7/13/2023 6282143684678@c.us undefined
+  7/13/2023 6282339110492@c.us undefined
+  7/13/2023 6288220237183@c.us undefined
+  7/13/2023 6285691007461@c.us undefined
+  7/13/2023 886971677645@c.us undefined
+  7/13/2023 6285819191718@c.us undefined
+  7/13/2023 6285693099000@c.us undefined
+  7/13/2023 6281257864315@c.us undefined
+  7/13/2023 62817257312@c.us undefined
+  7/13/2023 6289630138451@c.us Ka Egi Mz
+  7/13/2023 628164214022@c.us undefined
+  7/13/2023 6281298418887@c.us undefined
+  7/13/2023 6287786661845@c.us undefined
+  7/13/2023 6281959230295@c.us undefined
+  7/13/2023 6281290329324@c.us Kinan Mz
+  7/13/2023 6282162577008@c.us undefined
+  7/13/2023 6281287752452@c.us undefined
+  7/13/2023 6285869123742@c.us undefined
+  7/13/2023 6283159604939@c.us undefined
+  7/13/2023 6281286659501@c.us undefined
+  7/13/2023 6282219455150@c.us undefined
+  7/13/2023 6285772755387@c.us undefined
+  7/13/2023 6289651272580@c.us Fitri Client
+  7/13/2023 6282111254327@c.us undefined
+  7/13/2023 6287736475988@c.us undefined
+  7/13/2023 6281214146412@c.us undefined
+  7/13/2023 6281244953395@c.us undefined
+  7/13/2023 6285387597878@c.us undefined
+  7/13/2023 6281394164970@c.us undefined
+  7/13/2023 6282110008085@c.us undefined
+  7/13/2023 6282213136300@c.us undefined
+  7/13/2023 6281218960206@c.us undefined
+  7/13/2023 6281260610999@c.us undefined
+  7/13/2023 6282217935372@c.us undefined
+  7/13/2023 6285828521279@c.us undefined
+  7/13/2023 6289646984011@c.us undefined
+  7/13/2023 6281212052351@c.us undefined
+  7/13/2023 6281916281565@c.us undefined
+  7/13/2023 6282181525258@c.us undefined
+  7/13/2023 6289653385722@c.us undefined
+  7/13/2023 6591411760@c.us undefined
+  7/13/2023 6281908946192@c.us undefined
+  7/13/2023 6289632003600@c.us undefined
+  7/13/2023 6282290343602@c.us undefined
+  7/13/2023 6285157906400@c.us Devi Kantor
+  7/13/2023 6281297178547@c.us undefined
+  7/13/2023 6281217540362@c.us undefined
+  7/13/2023 6288266224339@c.us undefined
+  7/13/2023 6285921707411@c.us undefined
+  7/13/2023 6289602916613@c.us undefined
+  7/13/2023 6281353934625@c.us undefined
+  7/13/2023 6287786224034@c.us undefined
+  7/13/2023 6281291670558@c.us undefined
+  7/13/2023 6285771099202@c.us undefined
+  7/13/2023 6282291935715@c.us undefined
+  7/13/2023 62895385452131@c.us undefined
+  7/13/2023 886978245584@c.us undefined
+  7/13/2023 6287876109207@c.us Pak Aro
+  7/13/2023 6289517720197@c.us undefined
+  7/13/2023 6287876528530@c.us undefined
+  7/13/2023 6281227222751@c.us undefined
+  7/13/2023 6285854452214@c.us undefined
+  7/13/2023 6281296904206@c.us undefined
+  7/13/2023 6281802843438@c.us undefined
+  7/13/2023 6282257580157@c.us undefined
+  7/13/2023 6289650966680@c.us undefined
+  7/13/2023 628118817762@c.us undefined
+  7/13/2023 6285156362650@c.us undefined
+  7/13/2023 6282139392489@c.us undefined
+  7/13/2023 62816835796@c.us undefined
+  7/13/2023 6281999229501@c.us undefined
+  7/13/2023 6285854633609@c.us undefined
+  7/13/2023 6285775559722@c.us undefined
+  7/13/2023 6281213221265@c.us undefined
+  7/13/2023 6281477101502@c.us undefined
+  7/13/2023 6281287411475@c.us undefined
+  7/13/2023 6282160899906@c.us undefined
+  7/13/2023 628112918086@c.us undefined
+  7/13/2023 628161831594@c.us undefined
+  7/13/2023 6287870000562@c.us undefined
+  7/13/2023 628112348212@c.us undefined
+  7/13/2023 628129338774@c.us undefined
+  7/13/2023 6281809668698@c.us undefined
+  7/13/2023 628119206720@c.us undefined
+  7/13/2023 62811888570@c.us undefined
+  7/13/2023 6281211639912@c.us DHL Cikokol
+  7/13/2023 6281297947171@c.us undefined
+  7/13/2023 6281285460476@c.us undefined
+  7/13/2023 6287859053310@c.us undefined
+  7/13/2023 628122667063@c.us undefined
+  7/13/2023 6282114328707@c.us undefined
+  7/13/2023 6287873620865@c.us undefined
+  7/13/2023 6282250382018@c.us undefined
+  7/13/2023 62895323952973@c.us undefined
+  7/13/2023 628111010204@c.us undefined
+  7/13/2023 6281138815000@c.us undefined
+  7/13/2023 62816769819@c.us undefined
+  7/13/2023 62895396298416@c.us undefined
+  7/13/2023 6287886650548@c.us undefined
+  7/13/2023 6285210523924@c.us undefined
+  7/13/2023 6288211167534@c.us undefined
+  7/13/2023 6281246515166@c.us undefined
+  7/13/2023 6587900117@c.us undefined
+  7/13/2023 6281805550488@c.us undefined
+  7/13/2023 6281908668337@c.us undefined
+  7/13/2023 6281211682917@c.us undefined
+  7/13/2023 6285243039608@c.us undefined
+  7/13/2023 6282135242620@c.us undefined
+  7/13/2023 6281291282048@c.us undefined
+  7/13/2023 6289508666129@c.us undefined
+  7/13/2023 628116056056@c.us undefined
+  7/13/2023 6285781629402@c.us Yuli Mz
+  7/13/2023 6281377924505@c.us undefined
+  7/13/2023 6281398481082@c.us Dinis
+  7/13/2023 6281312345243@c.us undefined
+  7/13/2023 6281936202446@c.us undefined
+  7/13/2023 6282123335003@c.us Mediamaz
+  7/13/2023 6285733113256@c.us Pt Ivonik
+  7/13/2023 6281331858089@c.us undefined
+  7/13/2023 6282339301690@c.us undefined
+  7/13/2023 628123034773@c.us undefined
+  7/13/2023 6281213833430@c.us undefined
+  7/13/2023 628111525968@c.us undefined
+  7/13/2023 6288247247666@c.us undefined
+  7/13/2023 6289601847783@c.us undefined
+  7/13/2023 6281262947592@c.us undefined
+  7/13/2023 62881037034334@c.us undefined
+  7/13/2023 62817468012@c.us undefined
+  7/13/2023 6281295030311@c.us undefined
+  7/13/2023 6285156647545@c.us undefined
+  7/13/2023 6282255841511@c.us undefined
+  7/13/2023 6281239575303@c.us undefined
+  7/13/2023 6281385360884@c.us undefined
+  7/13/2023 6281380944096@c.us undefined
+  7/13/2023 62811928328@c.us undefined
+  7/13/2023 6282154101568@c.us undefined
+  7/13/2023 62895383114563@c.us undefined
+  7/13/2023 6285723651321@c.us undefined
+  7/13/2023 62895603544478@c.us undefined
+  7/13/2023 6281234800805@c.us undefined
+  7/13/2023 628119501177@c.us undefined
+  7/13/2023 6287842217464@c.us undefined
+  7/13/2023 6281211312234@c.us undefined
+  7/13/2023 6282128599450@c.us undefined
+  7/13/2023 6282119581592@c.us undefined
+  7/13/2023 6281353547154@c.us undefined
+  7/13/2023 6287824079949@c.us undefined
+  7/13/2023 628561743653@c.us undefined
+  7/13/2023 6282268076270@c.us undefined
+  7/13/2023 6285643088343@c.us undefined
+  7/13/2023 31683275049@c.us undefined
+  7/13/2023 6282272711118@c.us undefined
+  7/13/2023 6281222707514@c.us undefined
+  7/13/2023 6281517594797@c.us undefined
+  7/13/2023 6281213589342@c.us undefined
+  7/13/2023 6287788130822@c.us undefined
+  7/13/2023 17783867161@c.us undefined
+  7/13/2023 971557255366@c.us undefined
+  7/13/2023 6281249702461@c.us undefined
+  7/13/2023 628118058383@c.us undefined
+  7/13/2023 6287780803084@c.us undefined
+  7/13/2023 6285732445615@c.us undefined
+  7/13/2023 6285697930939@c.us undefined
+  7/13/2023 6281212221319@c.us PT Global Imoo Telekomunikasi
+  7/13/2023 6285204579875@c.us undefined
+  7/13/2023 6285825538024@c.us undefined
+  7/13/2023 6282214937796@c.us undefined
+  7/13/2023 628117203070@c.us undefined
+  7/13/2023 6283152672079@c.us undefined
+  7/13/2023 6285738385823@c.us undefined
+  7/13/2023 6285886636725@c.us undefined
+  7/13/2023 62811388298@c.us undefined
+  7/13/2023 6288214403680@c.us undefined
+  7/13/2023 6282235851986@c.us undefined
+  7/13/2023 6281919008963@c.us undefined
+  7/13/2023 6281328773335@c.us undefined
+  7/13/2023 6281295100336@c.us undefined
+  7/13/2023 6287868785516@c.us undefined
+  7/13/2023 905541627501@c.us undefined
+  7/13/2023 6285791999291@c.us undefined
+  7/13/2023 6285313620672@c.us undefined
+  7/13/2023 6289608953818@c.us undefined
+  7/13/2023 6287852063028@c.us undefined
+  7/13/2023 6282143157993@c.us undefined
+  7/13/2023 6282123559439@c.us undefined
+  7/13/2023 62811317989@c.us undefined
+  7/13/2023 6285658929747@c.us undefined
+  7/13/2023 6281808435316@c.us undefined
+  7/13/2023 6289652038812@c.us undefined
+  7/13/2023 4917665508622@c.us undefined
+  7/13/2023 6281277774623@c.us undefined
+  7/13/2023 6289647738810@c.us undefined
+  7/13/2023 628563580511@c.us undefined
+  7/13/2023 6285245705653@c.us undefined
+  7/13/2023 6282193655546@c.us undefined
+  7/13/2023 6285813104586@c.us undefined
+  7/13/2023 6281291858210@c.us undefined
+  7/13/2023 6285841176128@c.us undefined
+  7/13/2023 6282182181007@c.us undefined
+  7/13/2023 6289503479653@c.us undefined
+  7/13/2023 628112280728@c.us undefined
+  7/13/2023 6285333604094@c.us undefined
+  7/13/2023 6282278693043@c.us undefined
+  7/13/2023 6285769196235@c.us undefined
+  7/13/2023 6281904794802@c.us undefined
+  7/13/2023 62895606414422@c.us undefined
+  7/12/2023 6285641772187@c.us undefined
+  7/12/2023 6283140857323@c.us undefined
+  7/12/2023 6288215305652@c.us undefined
+  7/12/2023 6285172263136@c.us undefined
+  7/12/2023 6281343611279@c.us undefined
+  7/12/2023 6287711062152@c.us undefined
+  7/12/2023 6282124303509@c.us undefined
+  7/12/2023 6285943033946@c.us undefined
+  7/12/2023 6285775017799@c.us undefined
+  7/12/2023 628111796923@c.us undefined
+  7/12/2023 6281252807175@c.us undefined
+  7/12/2023 6287784451560@c.us undefined
+  7/12/2023 628159171161@c.us undefined
+  7/12/2023 6287877621622@c.us undefined
+  7/12/2023 6283126547167@c.us undefined
+  7/12/2023 886976644715@c.us undefined
+  7/12/2023 6281390333391@c.us undefined
+  7/12/2023 4917641548538@c.us undefined
+  7/12/2023 628561401109@c.us undefined
+  7/12/2023 6287701337072@c.us undefined
+  7/12/2023 6282215588095@c.us undefined
+  7/12/2023 6281399988774@c.us undefined
+  7/12/2023 6285795148067@c.us undefined
+  7/12/2023 6281287452662@c.us undefined
+  7/12/2023 6281329857031@c.us undefined
+  7/12/2023 6281287131076@c.us undefined
+  7/12/2023 6285241764446@c.us WA ODE SITI HASMA Client
+  7/12/2023 6281246139737@c.us undefined
+  7/12/2023 6285299475858@c.us undefined
+  7/12/2023 6281803636489@c.us undefined
+  7/12/2023 6282114063708@c.us undefined
+  7/12/2023 6282231362546@c.us undefined
+  7/12/2023 6287722554680@c.us undefined
+  7/12/2023 841238938989@c.us undefined
+  7/12/2023 628161675131@c.us undefined
+  7/12/2023 6289621405702@c.us Pak Aro Mz
+  7/12/2023 6285776927427@c.us undefined
+  7/12/2023 628158840291@c.us undefined
+  7/12/2023 6289528205118@c.us undefined
+  7/12/2023 62818919828@c.us undefined
+  7/12/2023 6285877063842@c.us undefined
+  7/12/2023 6281310467818@c.us undefined
+  7/12/2023 628118200178@c.us undefined
+  7/12/2023 6281385932723@c.us undefined
+  7/12/2023 6281357934029@c.us undefined
+  7/12/2023 6283127704717@c.us undefined
+  7/12/2023 6281905828082@c.us undefined
+  7/12/2023 6281283622242@c.us undefined
+  7/12/2023 6281381399981@c.us undefined
+  7/12/2023 6287883513339@c.us undefined
+  7/12/2023 6285774318400@c.us undefined
+  7/12/2023 6282223104447@c.us undefined
+  7/12/2023 6282221231375@c.us undefined
+  7/12/2023 6285272726969@c.us undefined
+  7/12/2023 6285799942451@c.us undefined
+  7/12/2023 6281319240367@c.us undefined
+  7/12/2023 6287819328639@c.us undefined
+  7/12/2023 6282328102343@c.us undefined
+  7/12/2023 61481941822@c.us undefined
+  7/12/2023 6281235591697@c.us undefined
+  7/12/2023 6282193470011@c.us undefined
+  7/12/2023 48790603839@c.us undefined
+  7/12/2023 6282162642751@c.us undefined
+  7/12/2023 6285742799954@c.us undefined
+  7/12/2023 6282297416501@c.us undefined
+  7/12/2023 6282130619358@c.us undefined
+  7/12/2023 628567721180@c.us undefined
+  7/12/2023 6285793394318@c.us undefined
+  7/12/2023 6281232185954@c.us undefined
+  7/12/2023 6287859575859@c.us undefined
+  7/12/2023 6287771436750@c.us undefined
+  7/12/2023 6281335351799@c.us undefined
+  7/12/2023 628112088895@c.us undefined
+  7/12/2023 6285314785985@c.us undefined
+  7/12/2023 62882008710683@c.us undefined
+  7/12/2023 6281318530266@c.us undefined
+  7/12/2023 62882005670076@c.us undefined
+  7/12/2023 6283874286822@c.us undefined
+  7/12/2023 6282126831701@c.us undefined
+  7/12/2023 6282375078623@c.us undefined
+  7/12/2023 628126008668@c.us undefined
+  7/12/2023 6585759879@c.us undefined
+  7/12/2023 6285311655520@c.us undefined
+  7/12/2023 6287701443343@c.us undefined
+  7/12/2023 6281343499799@c.us undefined
+  7/12/2023 6281284215966@c.us undefined
+  7/12/2023 6281368654177@c.us undefined
+  7/12/2023 6287880870708@c.us undefined
+  7/12/2023 6285372534426@c.us undefined
+  7/12/2023 6281510001990@c.us Nichole
+  7/12/2023 6281319606328@c.us undefined
+  7/12/2023 6285280476780@c.us undefined
+  7/12/2023 6287888334209@c.us undefined
+  7/12/2023 6285642858857@c.us undefined
+  7/12/2023 6281534791308@c.us undefined
+  7/12/2023 6281958585827@c.us undefined
+  7/12/2023 6281346436723@c.us undefined
+  7/12/2023 6282176723138@c.us undefined
+  7/12/2023 6281908151537@c.us undefined
+  7/12/2023 62818717878@c.us undefined
+  7/12/2023 6287751543539@c.us undefined
+  7/12/2023 905551104939@c.us undefined
+  7/12/2023 6281313300762@c.us undefined
+  7/12/2023 6283820107698@c.us undefined
+  7/12/2023 628126551304@c.us Milhan
+  7/12/2023 6281324110001@c.us undefined
+  7/12/2023 6281319866499@c.us undefined
+  7/12/2023 6281220063008@c.us undefined
+  7/12/2023 62816737704@c.us undefined
+  7/12/2023 6285399191911@c.us undefined
+  7/12/2023 6281236248524@c.us undefined
+  7/12/2023 6283147423560@c.us undefined
+  7/12/2023 6281378159945@c.us undefined
+  7/12/2023 6285773415402@c.us undefined
+  7/12/2023 6281386003393@c.us undefined
+  7/12/2023 6289655962709@c.us undefined
+  7/12/2023 6281317231871@c.us undefined
+  7/12/2023 923472462565@c.us undefined
+  7/12/2023 6281398305973@c.us undefined
+  7/12/2023 628118384126@c.us undefined
+  7/12/2023 6283865015848@c.us undefined
+  7/12/2023 6287860336250@c.us undefined
+  7/12/2023 6285640044660@c.us undefined
+  7/12/2023 6285296860527@c.us undefined
+  7/12/2023 6281318874652@c.us undefined
+  7/12/2023 6281238563414@c.us undefined
+  7/12/2023 6285704506016@c.us undefined
+  7/12/2023 6287883417314@c.us undefined
+  7/12/2023 6281374222549@c.us undefined
+  7/12/2023 628164277164@c.us undefined
+  7/12/2023 6281901499000@c.us undefined
+  7/12/2023 6287775334579@c.us undefined
+  7/12/2023 6282253350021@c.us undefined
+  7/12/2023 6281917988338@c.us undefined
+  7/12/2023 6282131838536@c.us undefined
+  7/12/2023 6281382899350@c.us undefined
+  7/12/2023 6281314639889@c.us undefined
+  7/12/2023 6283116088258@c.us undefined
+  7/12/2023 628895949150@c.us undefined
+  7/12/2023 6281259683226@c.us undefined
+  7/12/2023 6282276622727@c.us undefined
+  7/12/2023 628111086846@c.us Fauzan Mz
+  7/12/2023 6281388565627@c.us undefined
+  7/12/2023 6285163210490@c.us undefined
+  7/12/2023 6282260929841@c.us undefined
+  7/12/2023 6281281029603@c.us undefined
+  7/12/2023 6289668988099@c.us undefined
+  7/12/2023 6282349139404@c.us undefined
+  7/12/2023 97338722680@c.us undefined
+  7/12/2023 6287793240489@c.us undefined
+  7/12/2023 6281809047070@c.us undefined
+  7/12/2023 6281297222368@c.us undefined
+  7/12/2023 6281237695370@c.us undefined
+  7/12/2023 6285335969185@c.us undefined
+  7/12/2023 6281338833130@c.us undefined
+  7/12/2023 6281223398745@c.us undefined
+  7/12/2023 6285693875917@c.us undefined
+  7/12/2023 6285695555098@c.us undefined
+  7/12/2023 6288976976274@c.us undefined
+  7/12/2023 6281236240606@c.us undefined
+  7/12/2023 6281230173072@c.us undefined
+  7/12/2023 6281219210887@c.us undefined
+  7/12/2023 6281282754595@c.us undefined
+  7/12/2023 6281349811287@c.us undefined
+  7/12/2023 6282136399151@c.us undefined
+  7/12/2023 6285888768617@c.us undefined
+  7/12/2023 6281808254519@c.us undefined
+  7/12/2023 6282314902009@c.us undefined
+  7/12/2023 62881025504962@c.us undefined
+  7/12/2023 6281266911568@c.us undefined
+
+Get first message from each chat concurrently...
+62818262309@c.us undefined: no message
+0 6281328670780@c.us undefined: on 7/13/2023 10:15:15 PM
+Selamat malam, saya mendapat kontak dari teman saya dan saya ingin menerjemahkan dokumen. Utk pengiriman dokumen yg akan diterjemahkan, apa bisa dilakukan online?
+
+1 6285280806658@c.us undefined: on 7/13/2023 9:55:57 PM
+Hello Mediamaz Translation (os), untuk terjemahkn ijazah SMA (2 halaman bolak balik) dikenakan brp ya?
+
+2 62895710730206@c.us undefined: on 7/13/2023 9:40:09 PM
+Hello Mediamaz TS (penerjemahtersumpah) (ps)
+
+3 6281293295339@c.us undefined: on 7/13/2023 9:17:48 PM
+Hello
+
+821076302078@c.us undefined: no message
+4 628111289366@c.us undefined: on 7/13/2023 11:48:48 AM
+Hello Bootcamp Mediamaz (ps)
+
+5 6281214301867@c.us undefined: on 7/13/2023 8:58:58 PM
+Hello Bootcamp Mediamaz (ps)
+
+6 62895394408967@c.us undefined: on 7/13/2023 8:48:50 PM
+undefined
+
+7 6281288133735@c.us undefined: on 7/13/2023 11:09:56 AM
+Mediamaz Translation Service (os)
+
+8 6285658304874@c.us undefined: on 7/13/2023 8:26:32 PM
+Hello Mediamaz TS (penerjemahtersumpah) (ps)
+
+6285702413686@c.us undefined: no message
+9 6285692334090@c.us undefined: on 7/13/2023 7:20:27 PM
+Halo min
+
+10 628119923586@c.us undefined: on 7/13/2023 7:41:04 PM
+Hello Mediamaz TS (penerjemahtersumpah) (ps)
+
+11 628155720192@c.us undefined: on 7/13/2023 6:50:09 PM
+Hello Mediamaz TS (penerjemahtersumpah) (ps)
+
+12 6285290315500@c.us Edward Manurung Client: on 7/13/2023 7:19:42 PM
+Hallo
+
+6281218808143@c.us undefined: no message
+13 6281380656222@c.us undefined: on 7/13/2023 6:12:43 PM
+Hello Mediamaz TS (penerjemahtersumpah) (ps)
+
+14 6283895821547@c.us undefined: on 7/13/2023 5:57:07 PM
+Hello Mediamaz TS (penerjemahtersumpah) (ps)
+
+15 6285212145349@c.us undefined: on 7/13/2023 5:55:22 PM
+Hello Bootcamp Mediamaz (ps)
+
+16 6287870706000@c.us undefined: on 7/13/2023 5:41:19 PM
+Hello Mediamaz TS (penerjemahtersumpah) (ps)
+
+17 6288902927993@c.us undefined: on 7/13/2023 6:48:01 PM
+Hello Bootcamp Mediamaz (ps)
+
+18 6289631957104@c.us undefined: on 7/13/2023 3:17:15 AM
+Hello Mediamaz Translation (sc)
+
+19 6282281239893@c.us undefined: on 7/12/2023 6:20:58 PM
+Hello Mediamaz TS (penerjemahtersumpah) (ps)
+
+20 6586167614@c.us undefined: on 7/11/2023 3:37:54 PM
+Hello Mediamaz TS (penerjemahtersumpah) (ps)
+
+21 628817665896@c.us undefined: on 7/12/2023 2:47:09 PM
+Hello Mediamaz TS (penerjemahtersumpah) (ps)
+
+22 6282246475750@c.us undefined: on 7/13/2023 1:24:11 PM
+Hello Mediamaz TS (apostille).
+Selamat siang Kak 🙏🏻
+Kakak izin bertanya, jam kerja'y hari apa aja dan dri jam berapa ke berapa ya?
+Terima Kasih sebelumnya 🙏🏻
+
+6289529121704@c.us Arul Rezaldi: no message
+37128342203@c.us undefined: no message
+23 6282213503451@c.us undefined: on 7/13/2023 12:51:23 AM
+Halo kk
+
+6281316404804@c.us Panca Tirta Yasa: no message
+6285752746084@c.us undefined: no message
+6281296087690@c.us undefined: no message
+24 628176612847@c.us undefined: on 7/13/2023 12:18:37 PM
+Halo, selamat siang
+
+25 966538294716@c.us undefined: on 7/13/2023 10:24:50 AM
+Selamat Pagi, Saya Hani Customer Support Mediamaz Translation yang akan membantu.
+Terkait hasil terjemahan deadline pada tanggal 13 Juli 2023 masih dalam proses editing ya. Akan segera saya kirimkan softcopy draft apabila hasil sudah selesai agar dapat dilakukan pengecekan kembali. Mohon ditunggu. Terima kasih😊🙏
+
+26 6285838479382@c.us undefined: on 7/10/2023 8:03:53 PM
+Hello Mediamaz TS (penerjemahtersumpah) (ps)
+
+6285172151616@c.us undefined: no message
+27 6283874561521@c.us undefined: on 7/12/2023 2:04:31 PM
+halo kak, ini vereny yg tadi nelpon ya
+
+6281381593689@c.us undefined: no message
+28 6287878222555@c.us undefined: on 7/12/2023 9:05:22 AM
+Hello Mediamaz Translation (os)
+Bagaimana kalau saya mau minta terjemahik kartu keluarga ke bahasa Inggris.. dan biayanya berapa ?
+
+29 6591030481@c.us undefined: on 7/10/2023 9:56:53 PM
+masih ready kah jasa translationnya ka
+
+6281517027007@c.us undefined: no message
+6287771102228@c.us undefined: no message
+6281252686225@c.us undefined: no message
+6289522655711@c.us undefined: no message
+30 6289679465376@c.us undefined: on 7/12/2023 2:12:49 PM
+Mediamaz Translation Service (os)
+
+31 6285659587362@c.us undefined: on 7/10/2023 3:39:25 PM
+Hello Mediamaz TS (penerjemahtersumpah) (ps)
+
+32 6282137683823@c.us undefined: on 7/13/2023 9:36:50 AM
+Selamat Pagi, Saya Hani Customer Support Mediamaz Translation yang akan membantu.
+Terkait hasil terjemahan deadline pada tanggal 13 Juli 2023 masih dalam proses editing ya. Akan segera saya kirimkan softcopy draft apabila hasil sudah selesai agar dapat dilakukan pengecekan kembali. Mohon ditunggu. Terima kasih😊🙏
+
+33 62881038015020@c.us undefined: on 7/12/2023 8:16:51 PM
+Hello Bootcamp Mediamaz (ps)
+
+6281311334926@c.us undefined: no message
+34 6281234599179@c.us undefined: on 7/13/2023 3:04:14 PM
+Halo
+
+35 628111737343@c.us undefined: on 7/11/2023 12:19:37 PM
+Hello Mediamaz Translation (os)
+
+36 628194001878@c.us undefined: on 7/11/2023 9:48:50 AM
+Slmt pagi, mohon informasi, kalau saya ingin translate Akta Lahir, KTP dan KK utk syarat dokumen pembuatan visa, biaya per lembar dan waktu pengerjaan berapa lama ya? Mohon infonya. Tks sebelumnya (Mardianto)
+
+6289635938661@c.us undefined: no message
+37 62895391582897@c.us undefined: on 7/13/2023 11:32:19 AM
+Hello Mediamaz TS (penerjemahtersumpah) (ps)
+
+628174881643@c.us undefined: no message
+38 6285643021030@c.us undefined: on 7/11/2023 12:52:11 PM
+Siang pak.
+Saya ingin lanjut utk translate manuskrip saya bisa?
+
+39 6283871504386@c.us undefined: on 7/10/2023 3:20:04 PM
+Hello Mediamaz Translation (sc)
+
+40 6285782013684@c.us undefined: on 7/13/2023 3:59:32 PM
+Hello Mediamaz Translation (sc)
+
+41 6281933633789@c.us undefined: on 7/13/2023 5:20:58 PM
+Hello Mediamaz Translation (sc)
+
+628119957872@c.us undefined: no message
+42 6285710679548@c.us undefined: on 7/13/2023 12:20:26 PM
+Hello Mediamaz TS (penerjemahtersumpah) (ps)
+
+saya ingin menerjemahkan ijazah sma ke bahasa inggris, kira-kira berapa harganya ya?
+
+6287808771188@c.us Robi Client: no message
+628119000588@c.us undefined: no message
+43 4917624716733@c.us undefined: on 7/12/2023 3:35:37 PM
+Hallo,
+saya mau tanya. Apakah bisa menerjemahkan surat tagihan dari bahasa jerman ke bahasa inggris?
+Terima kasih
+
+44 6283804484809@c.us undefined: on 7/10/2023 7:00:35 PM
+Hello Mediamaz TS (penerjemahtersumpah) (ps)
+
+6281348608708@c.us undefined: no message
+45 628121731069@c.us undefined: on 7/13/2023 4:48:29 PM
+Hello Mediamaz TS (penerjemahtersumpah) (ps)
+
+6281573944773@c.us undefined: no message
+966566845714@c.us undefined: no message
+6282241992415@c.us undefined: no message
+6285669546510@c.us Dewi Mz: no message
+46 6281287969121@c.us undefined: on 7/13/2023 9:18:22 AM
+Hallo,
+Terimakasih telah mendaftar untuk mengikuti event *Mediamaz Weekly Virtual Consultation*.
+Di event ini Kamu bisa bertanya seputar program bootcamp translator kepada CEO/Konsultan Mediamaz secara langsung.
+
+Kami ingin memastikan kehadiranmu untuk dapat hadir pada hari *Kamis, 13/7/2023* pukul *11.00 WIB.*
+Balas pesan ini dengan pesan *"Hadir"* atau *"Tidak Bisa Hadir"* sebelum pukul 10.30. Jika kamu tidak mengirimkan konfirmasi kehadiran, kami akan menganggap bahwa kamu tidak dapat bergabung dengan acara tersebut.
+
+Terima kasih dan kami tunggu kehadiranmu di event *Mediamaz Weekly Virtual Consultation*!
+
+Salam,
+Tim Mediamaz
+
+47 6285158164644@c.us undefined: on 7/13/2023 4:00:17 PM
+Mediamaz Translation Service (os)
+
+48 6287784125874@c.us undefined: on 7/12/2023 2:58:09 PM
+undefined
+
+49 6282146295945@c.us undefined: on 7/13/2023 4:54:57 PM
+Hello Mediamaz Translation
+Melayani penerjemahan ENG-JPN?
+
+50 6281231709791@c.us undefined: on 7/11/2023 12:44:05 PM
+Halo, apa bisa terjemah gugatan dri indo ke korea?
+
+51 819078293234@c.us undefined: on 7/12/2023 3:40:44 PM
+Halo permisi saya ingin translate ijazah kelulusan dan nilai rapot dari bahasa indonesia ke bahasa jepang bisa tidak?
+
+6287885965009@c.us undefined: no message
+52 818043429128@c.us undefined: on 7/11/2023 7:11:27 PM
+Hello Mediamaz Translation (sc)
+
+53 6285217538858@c.us undefined: on 7/11/2023 10:41:17 AM
+P..
+
+628159157147@c.us undefined: no message
+628179112005@c.us undefined: no message
+54 6285750544722@c.us undefined: on 7/12/2023 3:48:29 PM
+Hello Mediamaz Translation (os)
+
+628111960621@c.us undefined: no message
+55 6285253816064@c.us undefined: on 7/13/2023 4:26:50 PM
+Hello Mediamaz Translation (sc)
+
+628126415808@c.us undefined: no message
+56 62895634657818@c.us undefined: on 7/12/2023 5:50:27 PM
+Hello Mediamaz TS (penerjemahtersumpah) (ps)
+
+57 6281288913717@c.us undefined: on 7/13/2023 4:10:19 PM
+Hello Bootcamp Mediamaz (ps)
+
+58 6285370881394@c.us undefined: on 7/11/2023 10:45:42 AM
+Pagi mba
+
+59 6281388688703@c.us undefined: on 7/12/2023 7:39:53 PM
+halo
+
+6281360627306@c.us undefined: no message
+6281717172682@c.us undefined: no message
+6289667018999@c.us undefined: no message
+6285780943869@c.us undefined: no message
+6285710552265@c.us Ibu Suci Liu Weiqing: no message
+60 6281524970848@c.us undefined: on 7/11/2023 9:20:00 AM
+halloo..
+
+61 6281220102588@c.us undefined: on 7/10/2023 11:12:26 AM
+Slamat siang
+
+6285158422908@c.us Jeje: no message
+6281220323204@c.us Dicky: no message
+62 6289649374893@c.us undefined: on 7/12/2023 6:21:05 PM
+Hello Bootcamp Mediamaz (ps)
+
+63 6287875654646@c.us undefined: on 7/13/2023 10:31:07 AM
+undefined
+
+64 6285726716127@c.us undefined: on 7/13/2023 9:11:12 AM
+undefined
+
+6285100291755@c.us undefined: no message
+6281291554352@c.us undefined: no message
+65 6281295996599@c.us undefined: on 7/12/2023 9:14:09 PM
+Hello Mediamaz TS (penerjemahtersumpah) (ps)
+
+66 6289635407058@c.us undefined: on 7/12/2023 10:01:33 AM
+undefined
+
+6281223596143@c.us undefined: no message
+628116111568@c.us undefined: no message
+62895424401166@c.us undefined: no message
+67 6281904991280@c.us undefined: on 7/13/2023 4:09:29 PM
+Hello Mediamaz TS (penerjemahtersumpah) (ps)
+
+6282133262006@c.us Ramadhani: no message
+68 6282352388577@c.us undefined: on 7/13/2023 1:07:05 PM
+Hello Mediamaz Translation (os)
+
+6282208242939@c.us undefined: no message
+69 6281319917278@c.us undefined: on 7/12/2023 2:59:23 PM
+Saya mau legalisir skck
+
+6282111142024@c.us Hani Mz: no message
+62818621338@c.us undefined: no message
+70 6281383711015@c.us undefined: on 7/13/2023 2:24:51 PM
+Hello Mediamaz TS (penerjemahtersumpah) (ps)
+
+71 6285731301606@c.us undefined: on 7/13/2023 3:35:04 PM
+Hello Mediamaz TS (penerjemahtersumpah) (ps)
+
+72 6281523878182@c.us undefined: on 7/13/2023 3:36:52 PM
+Hello Mediamaz TS (penerjemahtersumpah) (ps)
+
+6282213070400@c.us Bang Daeli: no message
+73 6285718062175@c.us undefined: on 7/13/2023 3:31:40 PM
+undefined
+
+6281213262414@c.us Ester Harefa: no message
+6281933197919@c.us undefined: no message
+74 6282143684678@c.us undefined: on 7/13/2023 3:20:16 PM
+Hello Mediamaz TS (apostille) (ps)
+
+75 6282339110492@c.us undefined: on 7/13/2023 8:20:44 AM
+Hello Mediamaz TS (penerjemahtersumpah) (ps) saya mau terjemahkan raport anak Dr jerman ke indo
+
+76 6288220237183@c.us undefined: on 7/13/2023 3:16:36 PM
+Hello Mediamaz TS (penerjemahtersumpah) (ps)
+
+77 6285691007461@c.us undefined: on 7/13/2023 10:11:44 AM
+Hello Mediamaz Translation (os)
+
+78 886971677645@c.us undefined: on 7/10/2023 4:13:20 PM
+Hello Mediamaz Translation (ps)
+
+79 6285819191718@c.us undefined: on 7/12/2023 3:00:15 PM
+Hello Mediamaz Translation (sc)
+
+80 6285693099000@c.us undefined: on 7/11/2023 8:38:59 AM
+Hello Mediamaz Translation (ps)
+
+81 6281257864315@c.us undefined: on 7/13/2023 12:55:29 PM
+Hello Mediamaz TS (penerjemahtersumpah) (ps)
+
+82 62817257312@c.us undefined: on 7/13/2023 11:29:47 AM
+Mediamaz Translation Service (os) bisa terjemah bahasa korea untuk label produk makanan minuman, keperluan bpom. sebennarnya kami sudah terjemahkan cuma tidak bpom minta legalitas?
+
+6289630138451@c.us Ka Egi Mz: no message
+83 628164214022@c.us undefined: on 7/13/2023 11:21:14 AM
+Hello Mediamaz Translation (os)
+
+84 6281298418887@c.us undefined: on 7/13/2023 1:15:24 PM
+Hello Mediamaz TS (penerjemahtersumpah) (ps)
+
+85 6287786661845@c.us undefined: on 7/13/2023 1:49:18 PM
+undefined
+
+86 6281959230295@c.us undefined: on 7/13/2023 1:59:44 PM
+Hello Mediamaz TS (penerjemahtersumpah) (ps)
+
+6281290329324@c.us Kinan Mz: no message
+87 6282162577008@c.us undefined: on 7/13/2023 2:16:17 PM
+
+
+88 6281287752452@c.us undefined: on 7/13/2023 12:27:21 PM
+Hello Mediamaz Translation (sc)
+
+89 6285869123742@c.us undefined: on 7/12/2023 2:44:47 PM
+Hello Mediamaz Translation (ps)
+
+90 6283159604939@c.us undefined: on 7/12/2023 2:53:54 PM
+Hello Mediamaz TS (penerjemahtersumpah) (ps)
+
+6281286659501@c.us undefined: no message
+91 6282219455150@c.us undefined: on 7/13/2023 2:53:31 PM
+Hello Mediamaz TS (penerjemahtersumpah) (ps)
+
+6285772755387@c.us undefined: no message
+6289651272580@c.us Fitri Client: no message
+92 6282111254327@c.us undefined: on 7/12/2023 3:07:30 PM
+Hello Mediamaz Translation (sc)
+
+93 6287736475988@c.us undefined: on 7/12/2023 3:16:58 PM
+Hello Mediamaz TS (penerjemahtersumpah) (ps)
+
+94 6281214146412@c.us undefined: on 7/12/2023 3:21:05 PM
+Hello Mediamaz TS (penerjemahtersumpah) (ps)
+
+95 6281244953395@c.us undefined: on 7/13/2023 2:22:31 PM
+Mediamaz Translation Service (os) mau menerjemahkan buku nikah indoensia ke dalam bahasa Perancis
+
+96 6285387597878@c.us undefined: on 7/13/2023 2:44:03 PM
+Selamat siang kak, kami ingin konfirmasi bagaimana dengan kelanjutan legalisasinya kak? karena dokumennya saat ini kami hold, dokumen belum kami lanjutkan karena kesalahan legalisasi di dokumen fotokopi yang harusnya di legalisasi oleh kemenag bukan notaris maka kami membutuhkan copy buku nikah dari kua setempat serta buku nikah aslinya
+
+97 6281394164970@c.us undefined: on 7/13/2023 2:41:24 PM
+Hello Mediamaz TS (penerjemahtersumpah) (ps)
+
+98 6282110008085@c.us undefined: on 7/12/2023 6:46:35 PM
+Hello Mediamaz TS (penerjemahtersumpah) (ps)
+
+99 6282213136300@c.us undefined: on 7/12/2023 1:37:49 PM
+Hello Mediamaz Translation (ads)
+
+100 6281218960206@c.us undefined: on 7/12/2023 9:06:38 PM
+Hello Mediamaz TS (penerjemahtersumpah) (ps) Saya ingin bertanya, untuk biaya translate dokumen seperti rapot & ijazah ke bahasa Inggris biayanya dikenakan berapa ya? Dan biasa proses pengerjaannya berapa lama?
+
+6281260610999@c.us undefined: no message
+6282217935372@c.us undefined: no message
+6285828521279@c.us undefined: no message
+101 6289646984011@c.us undefined: on 7/11/2023 3:57:37 PM
+Hello Mediamaz Translation (sc) mau tny utk bootcamp interpreter bhs mandarinny online dn brp lama ya?
+
+6281212052351@c.us undefined: no message
+6281916281565@c.us undefined: no message
+102 6282181525258@c.us undefined: on 7/13/2023 1:51:33 PM
+Halo kak, mau tanya kl translate tersumpah ktp ke bahasa inggris, harganya brp ya?
+
+6289653385722@c.us undefined: no message
+103 6591411760@c.us undefined: on 7/13/2023 12:58:44 PM
+Hello Mediamaz Translation (os)
+
+104 6281908946192@c.us undefined: on 7/11/2023 9:25:14 AM
+Pagi Bu Kinanti
+
+105 6289632003600@c.us undefined: on 7/10/2023 10:43:21 AM
+Mediamaz Translation Service (os)
+
+6282290343602@c.us undefined: no message
+6285157906400@c.us Devi Kantor: no message
+6281297178547@c.us undefined: no message
+106 6281217540362@c.us undefined: on 7/10/2023 8:31:26 AM
+pagi, saya mau request jasa translasi indonesia ke bhs inggris. biayanya brp ya?
+
+107 6288266224339@c.us undefined: on 7/12/2023 8:38:15 PM
+Selamat malam kak
+
+108 6285921707411@c.us undefined: on 7/11/2023 6:14:45 AM
+Pagi mba
+Saya ingin translate bhs inggris utk ijazah dan ada cap penterjemah tersumpah
+
+109 6289602916613@c.us undefined: on 7/13/2023 12:40:03 PM
+Hello Mediamaz TS (proofreading) (ps)
+
+110 6281353934625@c.us undefined: on 7/13/2023 12:41:52 PM
+Hello Mediamaz TS (penerjemahtersumpah) (ps)
+
+111 6287786224034@c.us undefined: on 7/13/2023 12:34:19 PM
+undefined
+
+112 6281291670558@c.us undefined: on 7/12/2023 1:08:13 PM
+Assalamu'alaikum selamat siang kak, saya ingin menerjemahkan berkas kelulusan dari bhs inggris ke bahasa arab, apakah bisa?
+
+6285771099202@c.us undefined: no message
+6282291935715@c.us undefined: no message
+113 62895385452131@c.us undefined: on 7/13/2023 12:37:48 PM
+Hello Mediamaz TS (penerjemahtersumpah) (ps)
+
+114 886978245584@c.us undefined: on 7/12/2023 8:33:47 PM
+Hello Mediamaz Translation (os)
+
+6287876109207@c.us Pak Aro: no message
+115 6289517720197@c.us undefined: on 7/10/2023 10:41:58 AM
+Permisi, minta pricelist jasa translate
+
+116 6287876528530@c.us undefined: on 7/11/2023 11:29:45 AM
+undefined
+
+6281227222751@c.us undefined: no message
+117 6285854452214@c.us undefined: on 7/13/2023 12:33:06 PM
+Hello Mediamaz Translation (sc) apakah tersedia penerjemah bahasa arab?
+
+118 6281296904206@c.us undefined: on 7/13/2023 12:21:12 PM
+Hello Mediamaz TS (penerjemahtersumpah) (ps)
+
+119 6281802843438@c.us undefined: on 7/13/2023 12:23:45 PM
+undefined
+
+120 6282257580157@c.us undefined: on 7/13/2023 12:01:44 PM
+Hello Mediamaz TS (penerjemahtersumpah) (ps)
+
+121 6289650966680@c.us undefined: on 7/13/2023 1:13:56 PM
+[G-A] Hello Go-Penerjemah
+
+122 628118817762@c.us undefined: on 7/12/2023 7:05:37 PM
+Hello Mediamaz TS (penerjemahtersumpah) (ps)
+
+123 6285156362650@c.us undefined: on 7/10/2023 9:45:52 PM
+Hello Mediamaz Translation (sc)
+
+124 6282139392489@c.us undefined: on 7/10/2023 5:11:25 PM
+Haloo
+
+62816835796@c.us undefined: no message
+125 6281999229501@c.us undefined: on 7/13/2023 12:13:29 PM
+Selamat siang
+
+126 6285854633609@c.us undefined: on 7/13/2023 1:01:33 PM
+
+
+127 6285775559722@c.us undefined: on 7/13/2023 12:53:28 PM
+Hello Bootcamp Mediamaz (ps), boleh tau lebih lanjut mengenai kelas penerjemah bahasa mandarin?
+
+128 6281213221265@c.us undefined: on 7/13/2023 12:29:13 PM
+Hello Bootcamp Mediamaz (ps)
+
+129 6281477101502@c.us undefined: on 7/13/2023 12:30:05 PM
+Hello Mediamaz TS (penerjemahtersumpah) (ps)
+
+130 6281287411475@c.us undefined: on 7/13/2023 12:52:04 AM
+Selamat malam, saya mau nanya seputar harga Terjemah dokumen tersumpah dari bahasa Indonesia ke bahasa Turki. Saya butuh urgent kira kira bisa ga ya?
+
+6282160899906@c.us undefined: no message
+131 628112918086@c.us undefined: on 7/13/2023 11:15:33 AM
+undefined
+
+132 628161831594@c.us undefined: on 7/13/2023 10:43:55 AM
+undefined
+
+133 6287870000562@c.us undefined: on 7/12/2023 5:46:04 PM
+undefined
+
+134 628112348212@c.us undefined: on 7/13/2023 11:27:15 AM
+undefined
+
+628129338774@c.us undefined: no message
+135 6281809668698@c.us undefined: on 7/13/2023 9:02:12 AM
+undefined
+
+628119206720@c.us undefined: no message
+62811888570@c.us undefined: no message
+6281211639912@c.us DHL Cikokol: no message
+6281297947171@c.us undefined: no message
+6281285460476@c.us undefined: no message
+136 6287859053310@c.us undefined: on 7/13/2023 11:29:02 AM
+Hello Mediamaz Translation (sc), saya ingin bertanya rate nya untuk menerjemahkan disertasi berapa nggih?
+
+628122667063@c.us undefined: no message
+6282114328707@c.us undefined: no message
+6287873620865@c.us undefined: no message
+137 6282250382018@c.us undefined: on 7/12/2023 9:40:32 AM
+Hello Mediamaz TS (penerjemahtersumpah) (ps)
+
+138 62895323952973@c.us undefined: on 7/13/2023 5:48:51 AM
+Hallo Penerjemah Website (Microsite)
+
+628111010204@c.us undefined: no message
+6281138815000@c.us undefined: no message
+62816769819@c.us undefined: no message
+62895396298416@c.us undefined: no message
+139 6287886650548@c.us undefined: on 7/11/2023 9:31:37 AM
+Hello Mediamaz TS (penerjemahtersumpah) (ps)
+
+6285210523924@c.us undefined: no message
+140 6288211167534@c.us undefined: on 7/12/2023 11:07:18 AM
+Hello Mediamaz TS (penerjemahtersumpah) (ps)
+
+6281246515166@c.us undefined: no message
+6587900117@c.us undefined: no message
+141 6281805550488@c.us undefined: on 7/13/2023 8:46:52 AM
+Hello Mediamaz TS (bali) (ps)
+
+142 6281908668337@c.us undefined: on 7/13/2023 10:09:46 AM
+Hello Mediamaz TS (penerjemahtersumpah) (ps), boleh saya tahu untuk translation by certified translator akta lahir dari bahasa indo ke english harga nya berapa ya?
+
+143 6281211682917@c.us undefined: on 7/13/2023 10:40:12 AM
+Hallo saya tadi udah tanya via dm
+
+144 6285243039608@c.us undefined: on 7/12/2023 11:50:30 AM
+Hello Mediamaz TS (penerjemahtersumpah) (ps)
+
+6282135242620@c.us undefined: no message
+6281291282048@c.us undefined: no message
+6289508666129@c.us undefined: no message
+145 628116056056@c.us undefined: on 7/12/2023 4:05:27 PM
+undefined
+
+6285781629402@c.us Yuli Mz: no message
+146 6281377924505@c.us undefined: on 7/10/2023 5:08:36 PM
+undefined
+
+6281398481082@c.us Dinis: no message
+6281312345243@c.us undefined: no message
+147 6281936202446@c.us undefined: on 7/13/2023 9:51:55 AM
+Hello Mediamaz TS (bali) (ps)
+
+6282123335003@c.us Mediamaz: no message
+6285733113256@c.us Pt Ivonik: no message
+6281331858089@c.us undefined: no message
+148 6282339301690@c.us undefined: on 7/12/2023 12:17:29 PM
+Hello Bootcamp Mediamaz (ps)
+
+149 628123034773@c.us undefined: on 7/13/2023 7:27:31 AM
+Hello Mediamaz Translation (os). Selamat pagi. Berapa biaya jasa terjemah akte lahir ke bahasa spanish? 1 hari bisa selesai ? Terimakasih
+
+6281213833430@c.us undefined: no message
+628111525968@c.us undefined: no message
+150 6288247247666@c.us undefined: on 7/13/2023 10:15:51 AM
+Selamat pagi bu, saya dewi dari Mediamaz Translation ingin menanyakan terkait invoice no.13499 dan invoice 13336 apakah sudah dilakukan pembayaran ya bu? jika sudah, apakah masih ada bukti transfernya? karena sepertinya belum di record oleh finance kami 🙏🏻
+Terimakasih.
+
+6289601847783@c.us undefined: no message
+151 6281262947592@c.us undefined: on 7/12/2023 10:25:39 AM
+Hello Mediamaz TS (penerjemahtersumpah) (ps)
+
+152 62881037034334@c.us undefined: on 7/12/2023 1:15:19 PM
+Hello Mediamaz TS (penerjemahtersumpah) (ps)
+
+153 62817468012@c.us undefined: on 7/12/2023 1:08:57 PM
+Hello Mediamaz TS (penerjemahtersumpah) (ps)
+
+6281295030311@c.us undefined: no message
+154 6285156647545@c.us undefined: on 7/12/2023 12:46:31 PM
+Hello Mediamaz TS (penerjemahtersumpah) (ps)
+
+155 6282255841511@c.us undefined: on 7/12/2023 11:45:38 AM
+halo pagi kak
+
+156 6281239575303@c.us undefined: on 7/13/2023 9:53:47 AM
+Hello Mediamaz Translation (os)
+
+157 6281385360884@c.us undefined: on 7/12/2023 9:10:43 AM
+Hello Mediamaz Translation (ads)
+
+158 6281380944096@c.us undefined: on 7/12/2023 10:52:36 AM
+Hello Mediamaz TS (penerjemahtersumpah) (ps)
+
+62811928328@c.us undefined: no message
+159 6282154101568@c.us undefined: on 7/12/2023 9:43:48 AM
+[G-A] Hello Go-Penerjemah
+
+160 62895383114563@c.us undefined: on 7/11/2023 5:17:14 PM
+Hello Mediamaz TS (apostille) (ps)
+
+161 6285723651321@c.us undefined: on 7/12/2023 9:28:19 AM
+Hello Mediamaz TS (penerjemahtersumpah) (ps)
+
+162 62895603544478@c.us undefined: on 7/12/2023 8:46:41 AM
+Hello Mediamaz TS (penerjemahtersumpah) (ps)
+
+163 6281234800805@c.us undefined: on 7/11/2023 11:38:57 AM
+Hello Mediamaz Translation (os)
+
+164 628119501177@c.us undefined: on 7/11/2023 2:08:48 PM
+Hello Mediamaz TS (penerjemahtersumpah) (ps)
+
+165 6287842217464@c.us undefined: on 7/11/2023 2:10:10 PM
+Hello Mediamaz TS (bali) (ps)
+
+166 6281211312234@c.us undefined: on 7/11/2023 10:10:32 AM
+Selamat pagi. Saya butuh jasa proofreading bahasa indonesia. Apakah bisa? jika bisa biayanya berapa?
+
+167 6282128599450@c.us undefined: on 7/10/2023 11:44:12 AM
+Hello Mediamaz Translation
+
+168 6282119581592@c.us undefined: on 7/11/2023 9:28:28 AM
+Hello Mediamaz TS (proofreading) (ps)
+
+169 6281353547154@c.us undefined: on 7/13/2023 9:38:31 AM
+Hello Mediamaz TS (bali) (ps)
+
+170 6287824079949@c.us undefined: on 7/10/2023 4:57:06 PM
+Hello Mediamaz TS (apostille) (ps)
+
+171 628561743653@c.us undefined: on 7/10/2023 4:19:12 PM
+Hello Mediamaz TS (penerjemahtersumpah) (ps)
+
+172 6282268076270@c.us undefined: on 7/10/2023 3:55:07 PM
+Hello Mediamaz Translation (os)
+
+173 6285643088343@c.us undefined: on 7/10/2023 2:58:41 PM
+Hello Mediamaz TS (penerjemahtersumpah) (ps)
+
+174 31683275049@c.us undefined: on 7/10/2023 2:44:40 PM
+Hello Mediamaz Translation (os)
+
+175 6282272711118@c.us undefined: on 7/10/2023 2:54:34 PM
+undefined
+
+176 6281222707514@c.us undefined: on 7/10/2023 2:38:37 PM
+Hello Mediamaz TS (apostille) (ps)
+
+177 6281517594797@c.us undefined: on 7/10/2023 1:50:08 PM
+Hello Mediamaz TS (apostille) (ps)
+
+178 6281213589342@c.us undefined: on 7/10/2023 12:55:55 PM
+Hello Mediamaz TS (penerjemahtersumpah) (ps)
+
+179 6287788130822@c.us undefined: on 7/13/2023 9:07:17 AM
+Siang
+
+180 17783867161@c.us undefined: on 7/10/2023 12:05:53 PM
+Hello Mediamaz Translation (os)
+
+181 971557255366@c.us undefined: on 7/10/2023 11:23:01 AM
+Hello Mediamaz Translation (sc)
+
+182 6281249702461@c.us undefined: on 7/11/2023 3:38:19 PM
+Hello Mediamaz Translation (sc)
+
+183 628118058383@c.us undefined: on 7/12/2023 7:29:20 PM
+Helo
+
+184 6287780803084@c.us undefined: on 7/13/2023 9:12:41 AM
+undefined
+
+185 6285732445615@c.us undefined: on 7/13/2023 9:38:24 AM
+[G-A] Hello Go-Penerjemah
+
+186 6285697930939@c.us undefined: on 7/12/2023 3:43:26 PM
+Hello Mediamaz TS (penerjemahtersumpah) (ps)
+
+6281212221319@c.us PT Global Imoo Telekomunikasi: no message
+187 6285204579875@c.us undefined: on 7/13/2023 8:24:31 AM
+Mediamaz Translation Service (os)
+
+188 6285825538024@c.us undefined: on 7/13/2023 8:30:48 AM
+Hello Mediamaz Translation (sc)
+
+189 6282214937796@c.us undefined: on 7/13/2023 9:17:53 AM
+Hallo,
+Terimakasih telah mendaftar untuk mengikuti event *Mediamaz Weekly Virtual Consultation*.
+Di event ini Kamu bisa bertanya seputar program bootcamp translator kepada CEO/Konsultan Mediamaz secara langsung.
+
+Kami ingin memastikan kehadiranmu untuk dapat hadir pada hari *Kamis, 13/7/2023* pukul *11.00 WIB.*
+Balas pesan ini dengan pesan *"Hadir"* atau *"Tidak Bisa Hadir"* sebelum pukul 10.30. Jika kamu tidak mengirimkan konfirmasi kehadiran, kami akan menganggap bahwa kamu tidak dapat bergabung dengan acara tersebut.
+
+Terima kasih dan kami tunggu kehadiranmu di event *Mediamaz Weekly Virtual Consultation*!
+
+Salam,
+Tim Mediamaz
+
+190 628117203070@c.us undefined: on 7/13/2023 8:16:03 AM
+Hello Mediamaz Translation (sc)
+
+191 6283152672079@c.us undefined: on 7/13/2023 9:27:13 AM
+[G-A] Hello Go-Penerjemah
+
+192 6285738385823@c.us undefined: on 7/13/2023 9:07:51 AM
+Hello Mediamaz TS (bali) (ps)
+
+193 6285886636725@c.us undefined: on 7/10/2023 8:15:51 PM
+Mediamaz Translation Service (os)
+
+194 62811388298@c.us undefined: on 7/12/2023 9:33:28 AM
+Pagi mbak Ilma, saya mau tanya untuk sworn translate dari Bahasa ke English untuk 1 halaman SK, berapa lama dan berapa biaya nya ya?
+
+6288214403680@c.us undefined: no message
+195 6282235851986@c.us undefined: on 7/13/2023 9:15:38 AM
+Assalamualaikum
+
+196 6281919008963@c.us undefined: on 7/10/2023 10:15:21 AM
+Permisi, selamat siang mau bertanya untuk translate abstrak berapa ya kak? Terima kasih 🙏🏻🙏🏻
+
+197 6281328773335@c.us undefined: on 7/10/2023 9:53:56 AM
+Hello Mediamaz TS (penerjemahtersumpah) (ps)
+
+198 6281295100336@c.us undefined: on 7/13/2023 6:45:50 AM
+Hello Mediamaz Translation (sc)
+
+199 6287868785516@c.us undefined: on 7/11/2023 7:15:16 PM
+Hello Mediamaz TS (penerjemahtersumpah) (ps)
+
+200 905541627501@c.us undefined: on 7/11/2023 6:49:51 PM
+Hello Mediamaz Translation, saya ingin menanyakan terkait harga penerjemahan dokumen dari bahasa Indonesia ke Spanyol untuk SKCK (1 halaman). Terima kasih
+
+201 6285791999291@c.us undefined: on 7/13/2023 2:02:00 AM
+Mediamaz Translation Service (os)
+
+202 6285313620672@c.us undefined: on 7/11/2023 4:55:57 PM
+Hello Mediamaz Translation (os)
+
+203 6289608953818@c.us undefined: on 7/11/2023 3:12:33 PM
+Halo kak selamat sore, saya mau translate dokumen yaa kak. Untuk sistemnya gmnaa ya kak?
+
+6287852063028@c.us undefined: no message
+204 6282143157993@c.us undefined: on 7/11/2023 2:02:13 PM
+Hello Mediamaz TS (penerjemahtersumpah) (ps)
+
+205 6282123559439@c.us undefined: on 7/12/2023 7:19:14 PM
+Hello Bootcamp Mediamaz (ps)
+
+206 62811317989@c.us undefined: on 7/11/2023 1:51:26 PM
+Siang kak, perkenalkan nama saya Shanon & saya sedang butuh penerjemah tersumpah untuk dokumen ijazah - Bahasa inggris. untuk pricelistnya berapa yaa? terimakasih
+
+207 6285658929747@c.us undefined: on 7/12/2023 9:33:07 PM
+Hello Mediamaz TS (penerjemahtersumpah) (ps)salam izin bertanya🙏
+
+208 6281808435316@c.us undefined: on 7/10/2023 6:33:37 PM
+selamat malam min, saya mau tanya kira kira ada jasa penerjemahan tersumpah yabg express kah? butuh untuk malam ini/ besok pagi🙏
+
+209 6289652038812@c.us undefined: on 7/12/2023 8:59:41 PM
+Hello Mediamaz TS (penerjemahtersumpah) (ps)
+
+4917665508622@c.us undefined: no message
+210 6281277774623@c.us undefined: on 7/11/2023 9:09:14 AM
+Hello Mediamaz TS (penerjemahtersumpah) (ps)
+
+211 6289647738810@c.us undefined: on 7/11/2023 7:01:18 PM
+Hello Bootcamp Mediamaz (ps)
+
+212 628563580511@c.us undefined: on 7/13/2023 9:09:52 AM
+undefined
+
+213 6285245705653@c.us undefined: on 7/13/2023 8:58:57 AM
+Hello Mediamaz Translation (os)
+
+214 6282193655546@c.us undefined: on 7/12/2023 5:54:31 PM
+Hello Mediamaz TS (penerjemahtersumpah) (ps)
+
+215 6285813104586@c.us undefined: on 7/12/2023 5:44:45 PM
+Hello Mediamaz TS (penerjemahtersumpah) (ps)
+
+216 6281291858210@c.us undefined: on 7/11/2023 6:32:29 PM
+Selamat malam admin, mau tanya kalau untuk menerjemahkan bahasa Jepang ke bhs Indonesia dan topiknya itu tentang teknikal berapa ya?
+
+217 6285841176128@c.us undefined: on 7/12/2023 5:43:30 PM
+Hello Mediamaz TS (penerjemahtersumpah) (ps)
+
+218 6282182181007@c.us undefined: on 7/13/2023 8:42:36 AM
+Mediamaz Translation Service (os)
+
+219 6289503479653@c.us undefined: on 7/11/2023 1:30:33 PM
+Hello Mediamaz Translation (sc)
+
+220 628112280728@c.us undefined: on 7/12/2023 4:50:24 PM
+Hello Mediamaz TS (penerjemahtersumpah) (ps)
+
+221 6285333604094@c.us undefined: on 7/12/2023 4:30:24 PM
+Hello Mediamaz TS (penerjemahtersumpah) (ps)
+
+222 6282278693043@c.us undefined: on 7/13/2023 8:40:16 AM
+Hello Mediamaz TS (penerjemahtersumpah) (ps)
+
+6285769196235@c.us undefined: no message
+6281904794802@c.us undefined: no message
+223 62895606414422@c.us undefined: on 7/12/2023 2:43:31 PM
+Hello Mediamaz TS (penerjemahtersumpah) (ps)
+
+224 6285641772187@c.us undefined: on 7/12/2023 10:00:41 AM
+Hello Mediamaz TS (penerjemahtersumpah) (ps)
+
+225 6283140857323@c.us undefined: on 7/12/2023 3:11:10 PM
+Hello Mediamaz TS (penerjemahtersumpah) (ps)
+
+226 6288215305652@c.us undefined: on 7/12/2023 3:38:57 PM
+Hello Mediamaz TS (penerjemahters
+umpah) (ps)
+
+6285172263136@c.us undefined: no message
+6281343611279@c.us undefined: no message
+227 6287711062152@c.us undefined: on 7/10/2023 12:41:05 PM
+Hello Mediamaz TS (penerjemahtersumpah) (ps)
+
+6282124303509@c.us undefined: no message
+6285943033946@c.us undefined: no message
+6285775017799@c.us undefined: no message
+628111796923@c.us undefined: no message
+6281252807175@c.us undefined: no message
+6287784451560@c.us undefined: no message
+628159171161@c.us undefined: no message
+228 6287877621622@c.us undefined: on 7/11/2023 9:25:08 PM
+Hello Mediamaz TS (os)
+
+229 6283126547167@c.us undefined: on 7/12/2023 2:26:38 PM
+Assalamualaikum
+
+886976644715@c.us undefined: no message
+6281390333391@c.us undefined: no message
+230 4917641548538@c.us undefined: on 7/12/2023 5:22:59 AM
+Halo kak, Saya ingin menanyakan tentang penerjemahan buku nikah dalam bahasa jerman, kira2 harga nya berapa dan berapa lama pengerjaan nya ?
+
+231 628561401109@c.us undefined: on 7/12/2023 4:53:48 PM
+
+
+232 6287701337072@c.us undefined: on 7/10/2023 2:07:01 PM
+Hello Mediamaz TS (penerjemahtersumpah) (ps)
+
+233 6282215588095@c.us undefined: on 7/12/2023 1:53:57 PM
+Hello Mediamaz TS (penerjemahtersumpah) (ps)
+
+6281399988774@c.us undefined: no message
+6285795148067@c.us undefined: no message
+234 6281287452662@c.us undefined: on 7/12/2023 3:22:48 PM
+Hello Mediamaz TS (apostille)
+
+235 6281329857031@c.us undefined: on 7/11/2023 3:28:16 PM
+Hello Mediamaz Translation (sc)
+
+236 6281287131076@c.us undefined: on 7/12/2023 1:58:21 PM
+undefined
+
+6285241764446@c.us WA ODE SITI HASMA Client: no message
+237 6281246139737@c.us undefined: on 7/11/2023 9:34:12 AM
+Hello Mediamaz TS (bali) (ps)
+
+238 6285299475858@c.us undefined: on 7/12/2023 3:38:13 PM
+Hello Bootcamp Metbybiamaz (ps)
+
+6281803636489@c.us undefined: no message
+239 6282114063708@c.us undefined: on 7/11/2023 9:06:16 PM
+Hello Bootcamp Mediamaz (ps)
+
+6282231362546@c.us undefined: no message
+6287722554680@c.us undefined: no message
+841238938989@c.us undefined: no message
+628161675131@c.us undefined: no message
+6289621405702@c.us Pak Aro Mz: no message
+6285776927427@c.us undefined: no message
+240 628158840291@c.us undefined: on 7/12/2023 3:32:04 PM
+Selamat siang
+
+241 6289528205118@c.us undefined: on 7/12/2023 3:40:35 PM
+Hello Mediamaz Translation (sc)
+
+242 62818919828@c.us undefined: on 7/12/2023 3:30:00 PM
+Mediamaz Translation Service (os)
+
+243 6285877063842@c.us undefined: on 7/12/2023 3:32:39 PM
+Hello Mediamaz TS (penerjemahtersumpah) (ps)
+
+244 6281310467818@c.us undefined: on 7/12/2023 3:34:08 PM
+Sore bu voni
+
+628118200178@c.us undefined: no message
+245 6281385932723@c.us undefined: on 7/12/2023 3:21:45 PM
+Hello Mediamaz TS (penerjemahtersumpah) (ps)
+
+246 6281357934029@c.us undefined: on 7/12/2023 3:21:54 PM
+Hello Mediamaz TS (penerjemahtersumpah) (ps)
+
+247 6283127704717@c.us undefined: on 7/12/2023 3:23:33 PM
+Hello Mediamaz TS (penerjemahtersumpah) (ps)
+
+6281905828082@c.us undefined: no message
+248 6281283622242@c.us undefined: on 7/12/2023 3:21:21 PM
+Hello Mediamaz Translation (os), Selamat sore mau menanyakan availability untuk Lao-English dan Khmer - English interpreter, untuk awal agustus, on-site, full day.
+
+249 6281381399981@c.us undefined: on 7/12/2023 1:39:48 PM
+halo mediamaz
+
+250 6287883513339@c.us undefined: on 7/12/2023 2:23:06 PM
+Selamat siang
+
+6285774318400@c.us undefined: no message
+251 6282223104447@c.us undefined: on 7/12/2023 3:18:36 PM
+Hello Mediamaz TS (penerjemahtersumpah) (ps)
+
+6282221231375@c.us undefined: no message
+6285272726969@c.us undefined: no message
+6285799942451@c.us undefined: no message
+252 6281319240367@c.us undefined: on 7/12/2023 9:52:02 AM
+Hello Mediamaz Translation (sc)
+
+253 6287819328639@c.us undefined: on 7/12/2023 2:49:52 PM
+Siapa Nama
+
+254 6282328102343@c.us undefined: on 7/12/2023 2:47:13 PM
+Hello Mediamaz TS (penerjemahtersumpah) (ps)
+
+255 61481941822@c.us undefined: on 7/10/2023 2:27:51 PM
+Hello Mediamaz TS (penerjemahtersumpah) (ps)
+
+256 6281235591697@c.us undefined: on 7/12/2023 2:28:37 PM
+Hello Mediamaz Translation (os)
+
+257 6282193470011@c.us undefined: on 7/12/2023 2:20:02 PM
+Hello Mediamaz TS (penerjemahtersumpah) (ps)
+
+258 48790603839@c.us undefined: on 7/10/2023 3:37:21 PM
+Hello Mediamaz TS (apostille) (ps) saya mau tny, klo mau apostille akte kelahiran WNI untuk ngurus surat nikah dengan WNA (Perancis) apa bisa?
+
+259 6282162642751@c.us undefined: on 7/12/2023 2:24:33 PM
+Hello Mediamaz TS (penerjemahtersumpah) (ps)
+
+260 6285742799954@c.us undefined: on 7/12/2023 2:24:55 PM
+Hello Mediamaz TS (penerjemahtersumpah) (ps)
+
+6282297416501@c.us undefined: no message
+261 6282130619358@c.us undefined: on 7/11/2023 12:34:23 AM
+Hello Mediamaz Translation (sc)
+
+262 628567721180@c.us undefined: on 7/10/2023 5:46:56 PM
+Sore mba Hani
+
+263 6285793394318@c.us undefined: on 7/12/2023 1:54:56 PM
+Hello Mediamaz TS (penerjemahtersumpah) (ps)
+
+264 6281232185954@c.us undefined: on 7/12/2023 1:45:16 PM
+Hello Mediamaz Translation (os)
+
+265 6287859575859@c.us undefined: on 7/12/2023 1:48:56 PM
+Hello Mediamaz TS (penerjemahtersumpah) (ps)
+
+266 6287771436750@c.us undefined: on 7/12/2023 1:48:47 PM
+Hello Mediamaz Translation (os)
+
+6281335351799@c.us undefined: no message
+628112088895@c.us undefined: no message
+6285314785985@c.us undefined: no message
+267 62882008710683@c.us undefined: on 7/12/2023 1:28:37 PM
+Hello Mediamaz TS (penerjemahtersumpah) (ps)
+
+268 6281318530266@c.us undefined: on 7/12/2023 1:32:12 PM
+Hello Mediamaz Work (ps)
+
+269 62882005670076@c.us undefined: on 7/12/2023 12:42:37 PM
+Hello Mediamaz TS (penerjemahtersumpah) (ps)
+
+270 6283874286822@c.us undefined: on 7/12/2023 12:38:27 PM
+Hello Mediamaz TS (penerjemahtersumpah) (ps)
+
+271 6282126831701@c.us undefined: on 7/12/2023 12:34:48 PM
+Hello Mediamaz TS (penerjemahtersumpah) (ps)
+
+272 6282375078623@c.us undefined: on 7/12/2023 12:30:18 PM
+Hello Mediamaz TS (penerjemahtersumpah) (ps)
+
+273 628126008668@c.us undefined: on 7/12/2023 12:05:01 PM
+Hello Mediamaz TS (penerjemahtersumpah) (ps)
+
+274 6585759879@c.us undefined: on 7/10/2023 9:28:05 AM
+undefined
+
+275 6285311655520@c.us undefined: on 7/12/2023 11:35:55 AM
+undefined
+
+276 6287701443343@c.us undefined: on 7/11/2023 11:48:43 PM
+Hello Mediamaz Translation (os)
+
+6281343499799@c.us undefined: no message
+6281284215966@c.us undefined: no message
+277 6281368654177@c.us undefined: on 7/12/2023 12:54:08 PM
+Selamat siang bapak,ibuk,bisakah saya bertanya tentang membuat kitas untuk suami saya wna
+
+278 6287880870708@c.us undefined: on 7/11/2023 10:30:30 AM
+Halo Kak pagi
+
+279 6285372534426@c.us undefined: on 7/12/2023 12:39:00 PM
+
+
+6281510001990@c.us Nichole: no message
+280 6281319606328@c.us undefined: on 7/12/2023 10:37:11 AM
+Mediamaz Legal SKCK (ps)
+
+281 6285280476780@c.us undefined: on 7/12/2023 12:15:08 PM
+Selamat Siang
+
+282 6287888334209@c.us undefined: on 7/12/2023 8:09:07 AM
+Hello Mediamaz Translation mau tanya kalau terjemah tersumpah brp harga per lembarnya?
+
+283 6285642858857@c.us undefined: on 7/12/2023 12:11:33 PM
+Hello Mediamaz TS (penerjemahtersumpah) (ps)
+
+284 6281534791308@c.us undefined: on 7/12/2023 11:16:26 AM
+halo, ibu saya dengan kinan yang berbicara dengan ibu melalui telepon, untuk penawarannya tim penerjemah kami meminta dokumennya ibu untuk di estimasikan akan menajdi berapa lembar hasil terjemahan
+
+285 6281958585827@c.us undefined: on 7/12/2023 11:41:35 AM
+undefined
+
+286 6281346436723@c.us undefined: on 7/12/2023 11:38:04 AM
+Hello Mediamaz TS (penerjemahtersumpah) (ps)
+
+287 6282176723138@c.us undefined: on 7/12/2023 7:11:43 AM
+Hello Mediamaz Translation (sc)..bisa minta info untuk biaya/doc translate tersumpah bahasa Inggris..?🙏🏻
+
+288 6281908151537@c.us undefined: on 7/12/2023 10:17:16 AM
+Hello Mediamaz Translation (sc)
+
+289 62818717878@c.us undefined: on 7/12/2023 11:59:42 AM
+Mediamaz Legal Visa (ps)
+
+6287751543539@c.us undefined: no message
+905551104939@c.us undefined: no message
+290 6281313300762@c.us undefined: on 7/12/2023 8:44:16 AM
+Hello Mediamaz Translation (sc), kak kalau mau translate jurnal bisa?
+
+291 6283820107698@c.us undefined: on 7/12/2023 8:41:29 AM
+Hello Mediamaz Work (ps)
+
+292 628126551304@c.us Milhan: on 7/11/2023 9:31:42 PM
+Mhn info berapa biaya menterjemahkan artikel dari bhs Indonesia ke bhs Inggeris perlembar. Artikel mau dimasukkan ke scopus
+
+293 6281324110001@c.us undefined: on 7/11/2023 9:30:33 PM
+Hello Mediamaz TS (penerjemahtersumpah) (ps)
+
+294 6281319866499@c.us undefined: on 7/11/2023 8:05:58 PM
+Hello Mediamaz TS (penerjemahtersumpah) (ps)
+
+6281220063008@c.us undefined: no message
+295 62816737704@c.us undefined: on 7/11/2023 8:21:49 PM
+Hello Mediamaz TS (penerjemahtersumpah) (ps)
+
+296 6285399191911@c.us undefined: on 7/12/2023 11:44:59 AM
+Mediamaz Legal Visa (ps)
+
+297 6281236248524@c.us undefined: on 7/11/2023 11:48:52 AM
+Hello Mediamaz TS (bali) (ps)
+
+298 6283147423560@c.us undefined: on 7/11/2023 5:42:26 PM
+Hello Bootcamp Mediamaz (ps)
+
+6281378159945@c.us undefined: no message
+299 6285773415402@c.us undefined: on 7/11/2023 2:12:10 PM
+undefined
+
+300 6281386003393@c.us undefined: on 7/10/2023 10:46:35 AM
+Hello Mediamaz TS (penerjemahtersumpah) (ps)
+
+Saya butuh translate akta kelahiran, KTP, dan KK ke bahasa inggris. Caranya bagaimana ya? Terima kasih
+
+6289655962709@c.us undefined: no message
+301 6281317231871@c.us undefined: on 7/12/2023 11:29:20 AM
+Mediamaz Legal Visa (ps)
+
+302 923472462565@c.us undefined: on 7/12/2023 11:22:50 AM
+Mediamaz Legal (ps)
+
+303 6281398305973@c.us undefined: on 7/12/2023 11:23:54 AM
+Hello Mediamaz TS (apostille) (ps)
+
+304 628118384126@c.us undefined: on 7/11/2023 11:20:30 AM
+undefined
+
+305 6283865015848@c.us undefined: on 7/12/2023 10:39:07 AM
+Selamat siang
+
+306 6287860336250@c.us undefined: on 7/12/2023 10:54:30 AM
+Hello Mediamaz TS (penerjemahtersumpah) (ps)
+
+307 6285640044660@c.us undefined: on 7/12/2023 10:52:42 AM
+kak
+
+308 6285296860527@c.us undefined: on 7/12/2023 10:41:02 AM
+Hello Mediamaz TS (apostille) (ps)
+
+309 6281318874652@c.us undefined: on 7/12/2023 11:00:18 AM
+Mediamaz Legal Visa (ps)
+
+310 6281238563414@c.us undefined: on 7/11/2023 10:21:41 AM
+Hello Mediamaz TS (penerjemahtersumpah) (ps). Saya mau menerjemahkan CV, apakah bisa?
+
+6285704506016@c.us undefined: no message
+311 6287883417314@c.us undefined: on 7/11/2023 11:20:41 AM
+undefined
+
+312 6281374222549@c.us undefined: on 7/12/2023 9:09:59 AM
+Hello Mediamaz Translation (os)
+
+313 628164277164@c.us undefined: on 7/10/2023 9:09:24 AM
+Selamat pagi,
+Kami dari Universitas Sebelas Maret, akan ada visitasi akreditasi internasional.
+
+Kami memerlukan interpreter untuk kegiatan tersebut.
+
+Dapatkah kami memperoleh daftar list harga jasa interpreter
+
+314 6281901499000@c.us undefined: on 7/12/2023 10:27:03 AM
+Mediamaz Legal Visa (ps)
+
+6287775334579@c.us undefined: no message
+6282253350021@c.us undefined: no message
+6281917988338@c.us undefined: no message
+6282131838536@c.us undefined: no message
+315 6281382899350@c.us undefined: on 7/12/2023 10:22:30 AM
+Hello Mediamaz Work (ps)
+
+6281314639889@c.us undefined: no message
+6283116088258@c.us undefined: no message
+628895949150@c.us undefined: no message
+316 6281259683226@c.us undefined: on 7/10/2023 4:55:27 PM
+undefined
+
+6282276622727@c.us undefined: no message
+628111086846@c.us Fauzan Mz: no message
+6281388565627@c.us undefined: no message
+317 6285163210490@c.us undefined: on 7/10/2023 12:51:56 PM
+Hello Mediamaz Translation (sc) kalau saya ingin bertanya2 terlebih dahulu seputar bootcamp english translation boleh kah?
+
+6282260929841@c.us undefined: no message
+318 6281281029603@c.us undefined: on 7/12/2023 8:55:32 AM
+Mediamaz Legal SKCK (ps)
+
+319 6289668988099@c.us undefined: on 7/12/2023 9:24:57 AM
+Hello Mediamaz Work (ps)
+
+320 6282349139404@c.us undefined: on 7/10/2023 12:03:14 PM
+Mediamaz Translation Service (os)
+
+321 97338722680@c.us undefined: on 7/10/2023 1:57:49 PM
+Hello Mediamaz TS (apostille) (ps)
+
+6287793240489@c.us undefined: no message
+6281809047070@c.us undefined: no message
+6281297222368@c.us undefined: no message
+6281237695370@c.us undefined: no message
+6285335969185@c.us undefined: no message
+6281338833130@c.us undefined: no message
+6281223398745@c.us undefined: no message
+6285693875917@c.us undefined: no message
+6285695555098@c.us undefined: no message
+322 6288976976274@c.us undefined: on 7/10/2023 10:17:35 AM
+Hello Mediamaz TS (penerjemahtersumpah) (ps)
+
+6281236240606@c.us undefined: no message
+323 6281230173072@c.us undefined: on 7/10/2023 4:41:10 PM
+Selamat sore, Mb Dewi. Mb mohon izin bertanya, apakah dapat menggunakan jasa mediamaz dr Indo ke Ingg dan selesai malam ini ya? Terima kasih
+
+6281219210887@c.us undefined: no message
+6281282754595@c.us undefined: no message
+6281349811287@c.us undefined: no message
+6282136399151@c.us undefined: no message
+6285888768617@c.us undefined: no message
+6281808254519@c.us undefined: no message
+6282314902009@c.us undefined: no message
+62881025504962@c.us undefined: no message
+6281266911568@c.us undefined: no message

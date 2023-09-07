@@ -1,6 +1,7 @@
 {
   "extends": "@actions-kit/dev/tsconfig.json",
   "compilerOptions": {
+    "module": "NodeNext",
     "allowJs": true,
     "outDir": "lib"
   },
