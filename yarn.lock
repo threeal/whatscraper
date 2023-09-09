@@ -9657,9 +9657,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"venom-bot@npm:^5.0.19":
-  version: 5.0.19
-  resolution: "venom-bot@npm:5.0.19"
+"venom-bot@npm:^5.0.20":
+  version: 5.0.20
+  resolution: "venom-bot@npm:5.0.20"
   dependencies:
     atob: ^2.1.2
     axios: ^1.4.0
@@ -9690,7 +9690,7 @@ __metadata:
     unzipper: ^0.10.14
     ws: ^8.8.0
     yoo-hoo: ^1.2.0
-  checksum: 3fd94a13e54ba57ab097e2ff6ebb7b929d3132eb314032da69acd63c09ac70134a2404dd6693381ee9eee36f74f8105a2b4d767db39aa6708ebbaa3f23129144
+  checksum: 8ab0b8bb32efc367fc2806b977d44b4778d4224ed6608b29918ac98b6d8cd0ee2a9ab98b12ad81fdd8d117aedf0f77c317868663f8c8a8fddfd8792e3eb4ec83
   languageName: node
   linkType: hard
 
@@ -9745,7 +9745,7 @@ __metadata:
     ts-jest: ^29.1.1
     ts-node: ^10.9.1
     typescript: ^5.2.2
-    venom-bot: ^5.0.19
+    venom-bot: ^5.0.20
   bin:
     whatscraper: lib/whatscraper.js
   languageName: unknown
