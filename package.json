@@ -20,7 +20,7 @@
     "test": "jest"
   },
   "dependencies": {
-    "@inquirer/select": "^1.2.9",
+    "@inquirer/select": "^1.2.11",
     "@types/spinnies": "^0.5.0",
     "venom-bot": "^5.0.19"
   },
