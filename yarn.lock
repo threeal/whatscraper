@@ -514,17 +514,17 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@inquirer/core@npm:^5.0.0":
-  version: 5.0.0
-  resolution: "@inquirer/core@npm:5.0.0"
+"@inquirer/core@npm:^5.0.1":
+  version: 5.0.1
+  resolution: "@inquirer/core@npm:5.0.1"
   dependencies:
-    "@inquirer/type": ^1.1.4
+    "@inquirer/type": ^1.1.5
     "@types/mute-stream": ^0.0.1
-    "@types/node": ^20.6.0
+    "@types/node": ^20.6.5
     "@types/wrap-ansi": ^3.0.0
     ansi-escapes: ^4.3.2
     chalk: ^4.1.2
-    cli-spinners: ^2.9.0
+    cli-spinners: ^2.9.1
     cli-width: ^4.1.0
     figures: ^3.2.0
     mute-stream: ^1.0.0
@@ -532,27 +532,27 @@ __metadata:
     signal-exit: ^4.1.0
     strip-ansi: ^6.0.1
     wrap-ansi: ^6.2.0
-  checksum: 9af00b83706c8771c7558bda015842443269a505ddb50f7df09f338848f21e2a24290c8e9fdf9673e1fd4bcebe925e391af22bec80601be5ae2f253e0d1111e0
+  checksum: 4b3ef004f2050daeeb977e83773bd43171ea064a007bd1e17977c04be27a1fe94c344b1094a287759f10bdd1eb0cdb6f629a869cca7233a0f754b2a3e3be41c0
   languageName: node
   linkType: hard
 
-"@inquirer/select@npm:^1.2.11":
-  version: 1.2.11
-  resolution: "@inquirer/select@npm:1.2.11"
+"@inquirer/select@npm:^1.2.12":
+  version: 1.2.12
+  resolution: "@inquirer/select@npm:1.2.12"
   dependencies:
-    "@inquirer/core": ^5.0.0
-    "@inquirer/type": ^1.1.4
+    "@inquirer/core": ^5.0.1
+    "@inquirer/type": ^1.1.5
     ansi-escapes: ^4.3.2
     chalk: ^4.1.2
     figures: ^3.2.0
-  checksum: 2d2e3bcb9cb5cbc909115869f798c004b04620082146d2806c3268d009ab91e62923d38606f3c787fcec2b810ea75dca6881e5950c7cc6d620af00c804176c43
+  checksum: f154524f91ac21dcbf32c4b9a439b54ad962ba4a6bf0110c926fd2a78ddb31957ed04f22a7eac59689d9ea82884136c38194a49d6d1b68235e99b1dc1707fc71
   languageName: node
   linkType: hard
 
-"@inquirer/type@npm:^1.1.4":
-  version: 1.1.4
-  resolution: "@inquirer/type@npm:1.1.4"
-  checksum: 278ba6aa095ee65629a23e5586fd09e7d9a23e112bf208eb8bb7a6f187b81fdf3dbd1356f9b3c610cc323cae086aa8d5956059ee1f7f55b02adc980dcb52fadc
+"@inquirer/type@npm:^1.1.5":
+  version: 1.1.5
+  resolution: "@inquirer/type@npm:1.1.5"
+  checksum: 5417e10978b7fbbb691c64259261d220ab12b95d05a7092dba228ce71e830385e6da26669e45916993b367177f3d99157a95ff09a0ad7075f0545ef9c1a0c81b
   languageName: node
   linkType: hard
 
@@ -1375,10 +1375,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/node@npm:^20.6.0":
-  version: 20.6.0
-  resolution: "@types/node@npm:20.6.0"
-  checksum: 52611801af5cf151c6fac1963aa4a8a8ca2e388a9e9ed82b01b70bca762088ded5b32cc789c5564220d5d7dccba2b8dd34446a3d4fc74736805e1f2cf262e29d
+"@types/node@npm:^20.6.5":
+  version: 20.7.0
+  resolution: "@types/node@npm:20.7.0"
+  checksum: 1b2919925c213f4d2039ada7a8354c998e144f7291db8d719ef58ea9924ab636c113690073b0ec3b82ba62907385f7e0f51e9d1583c1a818776daa5156d3a590
   languageName: node
   linkType: hard
 
@@ -2771,10 +2771,17 @@ __metadata:
   languageName: node
   linkType: hard
 
-"cli-spinners@npm:^2.6.1, cli-spinners@npm:^2.9.0":
+"cli-spinners@npm:^2.6.1":
   version: 2.9.0
   resolution: "cli-spinners@npm:2.9.0"
   checksum: a9c56e1f44457d4a9f4f535364e729cb8726198efa9e98990cfd9eda9e220dfa4ba12f92808d1be5e29029cdfead781db82dc8549b97b31c907d55f96aa9b0e2
+  languageName: node
+  linkType: hard
+
+"cli-spinners@npm:^2.9.1":
+  version: 2.9.1
+  resolution: "cli-spinners@npm:2.9.1"
+  checksum: 1780618be58309c469205bc315db697934bac68bce78cd5dfd46248e507a533172d623c7348ecfd904734f597ce0a4e5538684843d2cfb7af485d4466699940c
   languageName: node
   linkType: hard
 
@@ -9799,7 +9806,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "whatscraper@workspace:."
   dependencies:
-    "@inquirer/select": ^1.2.11
+    "@inquirer/select": ^1.2.12
     "@types/jest": ^29.5.5
     "@types/spinnies": ^0.5.0
     "@typescript-eslint/eslint-plugin": ^6.7.2
