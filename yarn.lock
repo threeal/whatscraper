@@ -1407,10 +1407,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/spinnies@npm:^0.5.2":
-  version: 0.5.2
-  resolution: "@types/spinnies@npm:0.5.2"
-  checksum: 3f1a5ef5953224559508d3900a4b392ef44e736e3c9f808037bec709be394236bee52a246465eb779b2d52560ee16b8f4c686e6ca1b3219885c2de0ba132c201
+"@types/spinnies@npm:^0.5.3":
+  version: 0.5.3
+  resolution: "@types/spinnies@npm:0.5.3"
+  checksum: ba7d2d3d201aaa9c425bb8798341474bf9cc47e6d2ea341a376d51f3b6f079bde805c9656ecc04862393715592c86d3f4bf63611c5bb5c6bae89fcdea0a25045
   languageName: node
   linkType: hard
 
@@ -10213,7 +10213,7 @@ __metadata:
   dependencies:
     "@inquirer/select": "npm:^1.3.1"
     "@types/jest": "npm:^29.5.7"
-    "@types/spinnies": "npm:^0.5.2"
+    "@types/spinnies": "npm:^0.5.3"
     "@typescript-eslint/eslint-plugin": "npm:^6.10.0"
     "@typescript-eslint/parser": "npm:^6.10.0"
     chmod-cli: "npm:^1.0.4"
