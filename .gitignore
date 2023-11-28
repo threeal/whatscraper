@@ -4,5 +4,6 @@
 !.prettier*
 
 coverage/
+lib/
 node_modules/
 tokens/
