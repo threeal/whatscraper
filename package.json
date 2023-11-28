@@ -12,10 +12,10 @@
   "author": "Alfi Maulana <alfi.maulana.f@gmail.com> (https://github.com/threeal)",
   "bin": "lib/whatscraper.js",
   "scripts": {
-    "build": "tsc && chmod-cli lib/whatscraper.js -m 0o777",
+    "build": "tsc",
     "format": "prettier --write .",
     "lint": "eslint src",
-    "prepack": "tsc && chmod-cli lib/whatscraper.js -m 0o777",
+    "prepack": "tsc",
     "sort": "sort-package-json",
     "test": "jest"
   },
@@ -28,7 +28,6 @@
     "@types/jest": "^29.5.10",
     "@typescript-eslint/eslint-plugin": "^6.12.0",
     "@typescript-eslint/parser": "^6.12.0",
-    "chmod-cli": "^1.0.4",
     "eslint": "^8.54.0",
     "eslint-plugin-eslint-comments": "^3.2.0",
     "eslint-plugin-filenames": "^1.3.2",
