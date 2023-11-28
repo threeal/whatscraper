@@ -33,9 +33,6 @@ jobs:
       - name: Check lint
         run: yarn lint
 
-      - name: Clean Project
-        run: yarn clean
-
       - name: Build project
         run: yarn build
 
