@@ -28,7 +28,7 @@
     "@types/jest": "^29.5.10",
     "@typescript-eslint/eslint-plugin": "^6.12.0",
     "@typescript-eslint/parser": "^6.12.0",
-    "chmod-cli": "^1.0.4",
+    "chmod-cli": "^1.0.6",
     "eslint": "^8.54.0",
     "eslint-plugin-eslint-comments": "^3.2.0",
     "eslint-plugin-filenames": "^1.3.2",
