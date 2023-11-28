@@ -16,6 +16,7 @@
     "clean": "rimraf lib",
     "format": "prettier --write .",
     "lint": "eslint src",
+    "prepack": "tsc && chmod-cli lib/whatscraper.js -m 0o777",
     "sort": "sort-package-json",
     "test": "jest"
   },
