@@ -1,0 +1,43 @@
+name: build
+on:
+  workflow_dispatch:
+  pull_request:
+    branches: ["*", "!latest"]
+  push:
+    branches: [latest, main]
+jobs:
+  build:
+    runs-on: macos-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4.1.1
+
+      - name: Enable Corepack
+        run: corepack enable
+
+      - name: Update Yarn
+        run: yarn set version stable
+
+      - name: Cache deps
+        uses: actions/cache@v3.3.2
+        with:
+          path: .yarn
+          key: yarn-${{ runner.os }}-${{ hashFiles('yarn.lock') }}
+
+      - name: Install deps
+        run: yarn install
+
+      - name: Check format
+        run: yarn sort && yarn format
+
+      - name: Check lint
+        run: yarn lint
+
+      - name: Build project
+        run: yarn build
+
+      - name: Test project
+        run: yarn test
+
+      - name: Check diff
+        run: git diff --exit-code HEAD
