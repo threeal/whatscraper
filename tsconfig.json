@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "module": "CommonJS",
+    "declaration": true,
+    "outDir": "lib",
+    "esModuleInterop": true,
+    "target": "ES2021",
+    "skipLibCheck": true,
+  },
+  "include": ["src"],
+  "exclude": ["**/*.test.ts"],
+}
