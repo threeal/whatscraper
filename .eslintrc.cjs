@@ -12,7 +12,7 @@ module.exports = {
     project: "tsconfig.eslint.json",
     sourceType: "module",
   },
-  plugins: ["@typescript-eslint", "jest"],
+  plugins: ["@typescript-eslint"],
   rules: {
     camelcase: "off",
     "i18n-text/no-en": "off",
@@ -22,7 +22,6 @@ module.exports = {
   },
   env: {
     es6: true,
-    "jest/globals": true,
     node: true,
   },
 };
