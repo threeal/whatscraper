@@ -1,13 +1,13 @@
 {
+  "include": ["src"],
   "compilerOptions": {
+    "exactOptionalPropertyTypes": true,
     "strict": true,
     "module": "CommonJS",
     "declaration": true,
     "outDir": "lib",
     "esModuleInterop": true,
-    "target": "ES2021",
+    "target": "es2022",
     "skipLibCheck": true
-  },
-  "include": ["src"],
-  "exclude": ["**/*.test.ts"]
+  }
 }
