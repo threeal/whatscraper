@@ -22,7 +22,7 @@ jobs:
           version: stable
 
       - name: Check format
-        run: yarn sort && yarn format
+        run: yarn format
 
       - name: Check lint
         run: yarn lint

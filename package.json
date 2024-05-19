@@ -16,8 +16,7 @@
     "build": "tsc",
     "format": "prettier --write .",
     "lint": "eslint .",
-    "prepack": "tsc",
-    "sort": "sort-package-json"
+    "prepack": "tsc"
   },
   "dependencies": {
     "@inquirer/select": "^2.3.2",
