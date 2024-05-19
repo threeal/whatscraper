@@ -5,7 +5,7 @@
     "strict": true,
     "module": "node16",
     "declaration": true,
-    "outDir": "lib",
+    "outDir": "dist",
     "esModuleInterop": true,
     "target": "es2022",
     "skipLibCheck": true
