@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 import * as venom from "venom-bot";
-import { Command, selectCommand } from "./inputs";
+import { Command, selectCommand } from "./inputs.js";
 
 const exitCommand: Command = {
   name: "Exit",

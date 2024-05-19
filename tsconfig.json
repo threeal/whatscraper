@@ -3,7 +3,7 @@
   "compilerOptions": {
     "exactOptionalPropertyTypes": true,
     "strict": true,
-    "module": "CommonJS",
+    "module": "node16",
     "declaration": true,
     "outDir": "lib",
     "esModuleInterop": true,
