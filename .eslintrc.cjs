@@ -17,6 +17,7 @@ module.exports = {
     camelcase: "off",
     "i18n-text/no-en": "off",
     "import/no-namespace": "off",
+    "import/no-unresolved": "off",
     "no-shadow": "off",
     "prettier/prettier": "off",
   },

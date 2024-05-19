@@ -10,7 +10,8 @@
   "repository": "github:threeal/google-rank",
   "license": "MIT",
   "author": "Alfi Maulana <alfi.maulana.f@gmail.com> (https://github.com/threeal)",
-  "bin": "lib/whatscraper.js",
+  "type": "module",
+  "bin": "dist/whatscraper.js",
   "scripts": {
     "build": "tsc",
     "format": "prettier --write .",

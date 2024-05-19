@@ -3,7 +3,7 @@
 !.git*
 !.prettier*
 
-lib/
+dist/
 node_modules/
 tokens/
 
