@@ -312,14 +312,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@inquirer/core@npm:^8.2.2":
-  version: 8.2.2
-  resolution: "@inquirer/core@npm:8.2.2"
+"@inquirer/core@npm:^8.2.3":
+  version: 8.2.3
+  resolution: "@inquirer/core@npm:8.2.3"
   dependencies:
     "@inquirer/figures": "npm:^1.0.3"
     "@inquirer/type": "npm:^1.3.3"
     "@types/mute-stream": "npm:^0.0.4"
-    "@types/node": "npm:^20.12.13"
+    "@types/node": "npm:^20.14.6"
     "@types/wrap-ansi": "npm:^3.0.0"
     ansi-escapes: "npm:^4.3.2"
     chalk: "npm:^4.1.2"
@@ -329,7 +329,7 @@ __metadata:
     signal-exit: "npm:^4.1.0"
     strip-ansi: "npm:^6.0.1"
     wrap-ansi: "npm:^6.2.0"
-  checksum: 10c0/6a04b42f856b31f892bd2195cbb214a38836f708f09925b36a50b11e3e84dca73ebf008ff7a42f2e7901350450a1cec8fe625c43cc1a90eda3c10ed7e4527cca
+  checksum: 10c0/5e618df6bac115e29ba2da01f5b142da53f2502679ebebccc9aa185e04261cae279c856e07bdecd69d3ad9eeec87729b7c212c59242374b982bdaa45ceb69ae4
   languageName: node
   linkType: hard
 
@@ -340,16 +340,16 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@inquirer/select@npm:^2.3.5":
-  version: 2.3.5
-  resolution: "@inquirer/select@npm:2.3.5"
+"@inquirer/select@npm:^2.3.6":
+  version: 2.3.6
+  resolution: "@inquirer/select@npm:2.3.6"
   dependencies:
-    "@inquirer/core": "npm:^8.2.2"
+    "@inquirer/core": "npm:^8.2.3"
     "@inquirer/figures": "npm:^1.0.3"
     "@inquirer/type": "npm:^1.3.3"
     ansi-escapes: "npm:^4.3.2"
     chalk: "npm:^4.1.2"
-  checksum: 10c0/87ed16ff2ec4811ce26c03c4dc2a12a032c266809bfdddfb6ece0c4ebcda52120d0eabe5d43f18963cae540d515bff8401ae3d141fda4f170e1e472595424c39
+  checksum: 10c0/dc458792ca6ae8db88170c2517e4f637a870c6578756c050d1af7aca1fcd4df39b71b6466192a8ec1f75913622f9f794761f765df97a52e77c4c2a1ef361242e
   languageName: node
   linkType: hard
 
@@ -650,12 +650,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/node@npm:^20.12.13":
-  version: 20.14.2
-  resolution: "@types/node@npm:20.14.2"
+"@types/node@npm:^20.14.6":
+  version: 20.14.6
+  resolution: "@types/node@npm:20.14.6"
   dependencies:
     undici-types: "npm:~5.26.4"
-  checksum: 10c0/2d86e5f2227aaa42212e82ea0affe72799111b888ff900916376450b02b09b963ca888b20d9c332d8d2b833ed4781987867a38eaa2e4863fa8439071468b0a6f
+  checksum: 10c0/22640f0eb2a955872e4529a93be1b719f67b527b80fdab51419756d20e21b5ce0f4ccbee9a3e2ff20e5def647f77baf77b4b0434ff8896791c102165ec0c3e48
   languageName: node
   linkType: hard
 
@@ -5805,7 +5805,7 @@ __metadata:
   resolution: "whatscraper@workspace:."
   dependencies:
     "@eslint/js": "npm:^9.4.0"
-    "@inquirer/select": "npm:^2.3.5"
+    "@inquirer/select": "npm:^2.3.6"
     "@types/spinnies": "npm:^0.5.3"
     eslint: "npm:^9.4.0"
     prettier: "npm:^3.3.2"
