@@ -5,7 +5,7 @@ import { Command, selectCommand } from "./inputs.js";
 
 const exitCommand: Command = {
   name: "Exit",
-  trigger: () => {
+  trigger: async () => {
     process.exit();
   },
 };

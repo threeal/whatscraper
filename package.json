@@ -19,12 +19,13 @@
     "prepack": "tsc"
   },
   "dependencies": {
-    "@inquirer/select": "^2.3.5",
+    "@inquirer/select": "^2.3.9",
     "@types/spinnies": "^0.5.3",
     "venom-bot": "^5.1.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.4.0",
+    "@types/node": "^20.14.9",
     "eslint": "^9.4.0",
     "prettier": "^3.3.2",
     "typescript": "^5.5.2",
