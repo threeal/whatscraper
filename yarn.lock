@@ -5808,6 +5808,7 @@ __metadata:
   dependencies:
     "@eslint/js": "npm:^9.4.0"
     "@inquirer/select": "npm:^2.3.9"
+    "@types/node": "npm:^20.14.9"
     "@types/spinnies": "npm:^0.5.3"
     eslint: "npm:^9.4.0"
     prettier: "npm:^3.3.2"
