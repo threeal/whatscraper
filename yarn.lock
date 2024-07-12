@@ -312,9 +312,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@inquirer/core@npm:^9.0.1":
-  version: 9.0.1
-  resolution: "@inquirer/core@npm:9.0.1"
+"@inquirer/core@npm:^9.0.2":
+  version: 9.0.2
+  resolution: "@inquirer/core@npm:9.0.2"
   dependencies:
     "@inquirer/figures": "npm:^1.0.3"
     "@inquirer/type": "npm:^1.4.0"
@@ -328,8 +328,8 @@ __metadata:
     signal-exit: "npm:^4.1.0"
     strip-ansi: "npm:^6.0.1"
     wrap-ansi: "npm:^6.2.0"
-    yoctocolors-cjs: "npm:^2.1.1"
-  checksum: 10c0/4f49af445f4b97bb36be08ef37ef5a1e44d5772f42a5d994f50801f4c9a77c3e6e8612fb2fc7bb911953dc3b6d828e52b5daa28c6874bea74ea0e59308773750
+    yoctocolors-cjs: "npm:^2.1.2"
+  checksum: 10c0/2ec629b2e2d4503059981bb54ee555e1e80100e2ec0fed0aec5ce4f8bae6d124bb241a7fbf0fb8141cabbefcfbd7ddaec4702e581feb99d29e10d4017394aae1
   languageName: node
   linkType: hard
 
@@ -340,16 +340,16 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@inquirer/select@npm:^2.3.9":
-  version: 2.3.9
-  resolution: "@inquirer/select@npm:2.3.9"
+"@inquirer/select@npm:^2.3.10":
+  version: 2.3.10
+  resolution: "@inquirer/select@npm:2.3.10"
   dependencies:
-    "@inquirer/core": "npm:^9.0.1"
+    "@inquirer/core": "npm:^9.0.2"
     "@inquirer/figures": "npm:^1.0.3"
     "@inquirer/type": "npm:^1.4.0"
     ansi-escapes: "npm:^4.3.2"
-    yoctocolors-cjs: "npm:^2.1.1"
-  checksum: 10c0/bd91d33901b091bcba9ffd8af24bccd1ee9061061179ec251b396ab7a4a6626bc11889f56aacb8825104402722463a5c6e20035f8f8d4b878fc9c53d240ce8ea
+    yoctocolors-cjs: "npm:^2.1.2"
+  checksum: 10c0/273595645433d130226734439bc021bb1d31023997478747435152da68e511a1ff752a7eb084ade67e706a1780da4dffa4623e95abef4a0b0881570d6556f727
   languageName: node
   linkType: hard
 
@@ -5827,7 +5827,7 @@ __metadata:
   resolution: "whatscraper@workspace:."
   dependencies:
     "@eslint/js": "npm:^9.6.0"
-    "@inquirer/select": "npm:^2.3.9"
+    "@inquirer/select": "npm:^2.3.10"
     "@types/node": "npm:^20.14.9"
     "@types/spinnies": "npm:^0.5.3"
     eslint: "npm:^9.6.0"
@@ -6084,7 +6084,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"yoctocolors-cjs@npm:^2.1.1":
+"yoctocolors-cjs@npm:^2.1.2":
   version: 2.1.2
   resolution: "yoctocolors-cjs@npm:2.1.2"
   checksum: 10c0/a0e36eb88fea2c7981eab22d1ba45e15d8d268626e6c4143305e2c1628fa17ebfaa40cd306161a8ce04c0a60ee0262058eab12567493d5eb1409780853454c6f
