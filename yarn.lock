@@ -109,10 +109,17 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@eslint/js@npm:9.7.0, @eslint/js@npm:^9.7.0":
+"@eslint/js@npm:9.7.0":
   version: 9.7.0
   resolution: "@eslint/js@npm:9.7.0"
   checksum: 10c0/73fc10666f6f4aed6f58e407e09f42ceb0d42fa60c52701c64ea9f59a81a6a8ad5caecdfd423d03088481515fe7ec17eb461acb4ef1ad70b649b6eae465b3164
+  languageName: node
+  linkType: hard
+
+"@eslint/js@npm:^9.9.0":
+  version: 9.9.0
+  resolution: "@eslint/js@npm:9.9.0"
+  checksum: 10c0/6ec9f1f0d576132444d6a5c66a8a08b0be9444e3ebb563fa6a6bebcf5299df3da7e454dc04c0fa601bb811197f00764b3a04430d8458cdb8e3a4677993d23f30
   languageName: node
   linkType: hard
 
@@ -5835,7 +5842,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "whatscraper@workspace:."
   dependencies:
-    "@eslint/js": "npm:^9.7.0"
+    "@eslint/js": "npm:^9.9.0"
     "@inquirer/select": "npm:^2.4.2"
     "@types/node": "npm:^20.14.12"
     "@types/spinnies": "npm:^0.5.3"
