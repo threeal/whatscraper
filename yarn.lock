@@ -661,12 +661,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/node@npm:^20.14.12":
-  version: 20.14.12
-  resolution: "@types/node@npm:20.14.12"
+"@types/node@npm:^22.2.0":
+  version: 22.2.0
+  resolution: "@types/node@npm:22.2.0"
   dependencies:
-    undici-types: "npm:~5.26.4"
-  checksum: 10c0/59bc5fa11fdd23fd517f859063118f54a1ab53d3399ef63c926f8902429d7453abc0db22ef4b0a6110026b6ab81b6472fee894e1d235c24b01a0b3e10cfae0bb
+    undici-types: "npm:~6.13.0"
+  checksum: 10c0/c17900b34faecfec204f72970bd658d0c217aaf739c1bf7690c969465b6b26b77a8be1cd9ba735aadbd1dd20b5c3e4f406ec33528bf7c6eec90744886c5d5608
   languageName: node
   linkType: hard
 
@@ -5634,6 +5634,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"undici-types@npm:~6.13.0":
+  version: 6.13.0
+  resolution: "undici-types@npm:6.13.0"
+  checksum: 10c0/2de55181f569c77a4f08063f8bf2722fcbb6ea312a26a9e927bd1f5ea5cf3a281c5ddf23155061db083e0a25838f54813543ff13b0ac34d230d5c1205ead66c1
+  languageName: node
+  linkType: hard
+
 "unique-filename@npm:^3.0.0":
   version: 3.0.0
   resolution: "unique-filename@npm:3.0.0"
@@ -5837,7 +5844,7 @@ __metadata:
   dependencies:
     "@eslint/js": "npm:^9.7.0"
     "@inquirer/select": "npm:^2.4.2"
-    "@types/node": "npm:^20.14.12"
+    "@types/node": "npm:^22.2.0"
     "@types/spinnies": "npm:^0.5.3"
     eslint: "npm:^9.7.0"
     prettier: "npm:^3.3.3"
