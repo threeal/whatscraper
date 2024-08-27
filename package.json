@@ -19,7 +19,7 @@
     "prepack": "tsc"
   },
   "dependencies": {
-    "@inquirer/select": "^2.4.2",
+    "@inquirer/select": "^2.4.7",
     "@types/spinnies": "^0.5.3",
     "venom-bot": "^5.1.0"
   },
