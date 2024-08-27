@@ -14,7 +14,10 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4.0.3
         with:
-          node-version: latest
+          node-version: 20
+
+      - name: Install Setuptools
+        run: brew install python-setuptools
 
       - name: Setup Yarn
         uses: threeal/setup-yarn-action@v2.0.0
