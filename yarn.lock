@@ -687,6 +687,15 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@types/node@npm:^22.6.1":
+  version: 22.6.1
+  resolution: "@types/node@npm:22.6.1"
+  dependencies:
+    undici-types: "npm:~6.19.2"
+  checksum: 10c0/79fdb14f268070eb21d25f3e81811b73c10dfcc65a638a6546fd97aa3e7dfe473f31a547fd21c43b8559a435b6ab26057066a47b5453bd1b1cdffe14430ac399
+  languageName: node
+  linkType: hard
+
 "@types/responselike@npm:^1.0.0":
   version: 1.0.0
   resolution: "@types/responselike@npm:1.0.0"
@@ -6060,7 +6069,7 @@ __metadata:
   dependencies:
     "@eslint/js": "npm:^9.10.0"
     "@inquirer/select": "npm:^3.0.1"
-    "@types/node": "npm:^22.5.5"
+    "@types/node": "npm:^22.6.1"
     "@types/spinnies": "npm:^0.5.3"
     eslint: "npm:^9.10.0"
     prettier: "npm:^3.3.3"
