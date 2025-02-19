@@ -19,17 +19,20 @@ jobs:
       - name: Install Setuptools
         run: brew install python-setuptools
 
-      - name: Setup Yarn
-        uses: threeal/setup-yarn-action@v2.0.0
+      - name: Setup pnpm
+        uses: threeal/setup-pnpm-action@v1.0.0
+
+      - name: Install Dependencies
+        run: pnpm install
 
       - name: Check format
-        run: yarn format
+        run: pnpm format
 
       - name: Check lint
-        run: yarn lint
+        run: pnpm lint
 
       - name: Build project
-        run: yarn build
+        run: pnpm build
 
       - name: Check diff
         run: git diff --exit-code HEAD
