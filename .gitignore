@@ -2,6 +2,7 @@
 !.eslint*
 !.git*
 !.nvmrc
+!.prettierignore
 
 dist/
 node_modules/
