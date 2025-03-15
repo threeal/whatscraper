@@ -33,5 +33,12 @@
   },
   "resolutions": {
     "puppeteer": "23.2.0"
+  },
+  "pnpm": {
+    "onlyBuiltDependencies": [
+      "puppeteer",
+      "sharp",
+      "sleep"
+    ]
   }
 }
