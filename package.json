@@ -13,9 +13,6 @@
   "type": "module",
   "bin": "dist/whatscraper.js",
   "scripts": {
-    "build": "tsc",
-    "format": "prettier --write .",
-    "lint": "eslint .",
     "prepack": "tsc"
   },
   "dependencies": {
