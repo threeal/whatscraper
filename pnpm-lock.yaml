@@ -24,9 +24,9 @@ importers:
       '@eslint/js':
         specifier: ^9.26.0
         version: 9.26.0
-      '@tsconfig/node23':
-        specifier: ^23.0.1
-        version: 23.0.1
+      '@tsconfig/node24':
+        specifier: ^24.0.0
+        version: 24.0.0
       '@types/node':
         specifier: ^22.15.17
         version: 22.15.17
@@ -371,8 +371,8 @@ packages:
   '@tootallnate/quickjs-emscripten@0.23.0':
     resolution: {integrity: sha512-C5Mc6rdnsaJDjO3UpGW/CQTHtCKaYlScZTly4JIu97Jxo/odCiH0ITnDXSJPTOrEKk/ycSZ0AOgTmkDtkOsvIA==}
 
-  '@tsconfig/node23@23.0.1':
-    resolution: {integrity: sha512-oJ0Y42TmsBLuLAfEbPTS5JXSbJJEEU4bULROS6zsL54Gdlw5aOy27rpsquotMKGf2auP6rkbfYsjl43WdGrNcg==}
+  '@tsconfig/node24@24.0.0':
+    resolution: {integrity: sha512-3/6Cr4dELEAucgPIr6ufY7yBYMi4ttZFOewABADNZ+bm4DUZl4dup2VBcBeP1ejj3QblrWVWux/1XcRv/ZVikA==}
 
   '@tufjs/canonical-json@1.0.0':
     resolution: {integrity: sha512-QTnf++uxunWvG2z3UFNzAoQPHxnSXOwtaI3iJ+AohhV+5vONuArPjJE7aPXPVXfXJsqrVbZBu9b81AJoSd09IQ==}
@@ -3273,7 +3273,7 @@ snapshots:
 
   '@tootallnate/quickjs-emscripten@0.23.0': {}
 
-  '@tsconfig/node23@23.0.1': {}
+  '@tsconfig/node24@24.0.0': {}
 
   '@tufjs/canonical-json@1.0.0': {}
 
