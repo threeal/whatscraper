@@ -16,7 +16,7 @@
     "dist"
   ],
   "scripts": {
-    "prepack": "tsc",
+    "prepack": "tsc -p tsconfig.build.json",
     "start": "jiti src/bin.ts"
   },
   "dependencies": {
