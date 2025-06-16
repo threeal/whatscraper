@@ -5,7 +5,8 @@ on:
   push:
     branches: [main]
 jobs:
-  build:
+  build-project:
+    name: Build Project
     runs-on: macos-14
     steps:
       - name: Checkout
@@ -20,11 +21,14 @@ jobs:
       - name: Install Dependencies
         run: pnpm install
 
-      - name: Check formatting
+      - name: Check Formatting
         run: pnpm prettier --check .
 
-      - name: Check lint
+      - name: Check Lint
         run: pnpm eslint
 
-      - name: Build project
-        run: pnpm tsc
+      - name: Check Types
+        run: pnpm tsc --noEmit
+
+      - name: Package Project
+        run: pnpm pack
