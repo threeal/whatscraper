@@ -11,13 +11,13 @@
   "license": "MIT",
   "author": "Alfi Maulana <alfi.maulana.f@gmail.com> (https://github.com/threeal)",
   "type": "module",
-  "bin": "dist/whatscraper.js",
+  "bin": "dist/bin.js",
   "files": [
     "dist"
   ],
   "scripts": {
     "prepack": "tsc",
-    "start": "jiti src/whatscraper.ts"
+    "start": "jiti src/bin.ts"
   },
   "dependencies": {
     "@inquirer/select": "^4.2.3",
