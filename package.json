@@ -16,7 +16,8 @@
     "dist"
   ],
   "scripts": {
-    "prepack": "tsc"
+    "prepack": "tsc",
+    "start": "jiti src/whatscraper.ts"
   },
   "dependencies": {
     "@inquirer/select": "^4.2.3",
@@ -28,6 +29,7 @@
     "@tsconfig/node24": "^24.0.1",
     "@types/node": "^22.15.30",
     "eslint": "^9.28.0",
+    "jiti": "^2.4.2",
     "lefthook": "^1.11.13",
     "prettier": "^3.5.3",
     "typescript": "^5.8.3",
