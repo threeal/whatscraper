@@ -12,6 +12,9 @@
   "author": "Alfi Maulana <alfi.maulana.f@gmail.com> (https://github.com/threeal)",
   "type": "module",
   "bin": "dist/whatscraper.js",
+  "files": [
+    "dist"
+  ],
   "scripts": {
     "prepack": "tsc"
   },
