@@ -30,7 +30,7 @@
     "@types/node": "^24.3.0",
     "eslint": "^9.39.1",
     "jiti": "^2.6.1",
-    "lefthook": "^2.0.2",
+    "lefthook": "^2.0.3",
     "prettier": "^3.6.2",
     "prettier-plugin-organize-imports": "^4.3.0",
     "typescript": "^5.9.3",
