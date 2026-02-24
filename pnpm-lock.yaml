@@ -12,8 +12,8 @@ importers:
   .:
     dependencies:
       '@inquirer/select':
-        specifier: ^5.0.7
-        version: 5.0.7(@types/node@24.3.0)
+        specifier: ^5.1.0
+        version: 5.1.0(@types/node@24.3.0)
       '@types/spinnies':
         specifier: ^0.5.3
         version: 0.5.3
@@ -235,8 +235,8 @@ packages:
     resolution: {integrity: sha512-g44zhR3NIKVs0zUesa4iMzExmZpLUdTLRMCStqX3GE5NT6VkPcxQGJ+uC8tDgBUC/vB1rUhUd55cOf++4NZcmw==}
     engines: {node: '>=23.5.0 || ^22.13.0 || ^21.7.0 || ^20.12.0'}
 
-  '@inquirer/core@11.1.4':
-    resolution: {integrity: sha512-1HvwyASF0tE/7W8geTTn0ydiWb463pq4SBIpaWcVabTrw55+CiRmytV9eZoqt3ohchsPw4Vv60jfNiI6YljVUg==}
+  '@inquirer/core@11.1.5':
+    resolution: {integrity: sha512-QQPAX+lka8GyLcZ7u7Nb1h6q72iZ/oy0blilC3IB2nSt1Qqxp7akt94Jqhi/DzARuN3Eo9QwJRvtl4tmVe4T5A==}
     engines: {node: '>=23.5.0 || ^22.13.0 || ^21.7.0 || ^20.12.0'}
     peerDependencies:
       '@types/node': '>=18'
@@ -248,8 +248,8 @@ packages:
     resolution: {integrity: sha512-y09iGt3JKoOCBQ3w4YrSJdokcD8ciSlMIWsD+auPu+OZpfxLuyz+gICAQ6GCBOmJJt4KEQGHuZSVff2jiNOy7g==}
     engines: {node: '>=23.5.0 || ^22.13.0 || ^21.7.0 || ^20.12.0'}
 
-  '@inquirer/select@5.0.7':
-    resolution: {integrity: sha512-1JUJIR+Z2PsvwP6VWty7aE0aCPaT2cy2c4Vp3LPhL2Pi3+aXewAld/AyJ/CW9XWx1JbKxmdElfvls/G/7jG7ZQ==}
+  '@inquirer/select@5.1.0':
+    resolution: {integrity: sha512-OyYbKnchS1u+zRe14LpYrN8S0wH1vD0p2yKISvSsJdH2TpI87fh4eZdWnpdbrGauCRWDph3NwxRmM4Pcm/hx1Q==}
     engines: {node: '>=23.5.0 || ^22.13.0 || ^21.7.0 || ^20.12.0'}
     peerDependencies:
       '@types/node': '>=18'
@@ -2937,7 +2937,7 @@ snapshots:
 
   '@inquirer/ansi@2.0.3': {}
 
-  '@inquirer/core@11.1.4(@types/node@24.3.0)':
+  '@inquirer/core@11.1.5(@types/node@24.3.0)':
     dependencies:
       '@inquirer/ansi': 2.0.3
       '@inquirer/figures': 2.0.3
@@ -2951,10 +2951,10 @@ snapshots:
 
   '@inquirer/figures@2.0.3': {}
 
-  '@inquirer/select@5.0.7(@types/node@24.3.0)':
+  '@inquirer/select@5.1.0(@types/node@24.3.0)':
     dependencies:
       '@inquirer/ansi': 2.0.3
-      '@inquirer/core': 11.1.4(@types/node@24.3.0)
+      '@inquirer/core': 11.1.5(@types/node@24.3.0)
       '@inquirer/figures': 2.0.3
       '@inquirer/type': 4.0.3(@types/node@24.3.0)
     optionalDependencies:
