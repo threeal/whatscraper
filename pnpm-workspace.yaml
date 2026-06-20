@@ -1,4 +1,3 @@
-packages: [.]
 allowBuilds:
   lefthook: true
   puppeteer: true
