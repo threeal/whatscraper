@@ -1,5 +1,4 @@
 allowBuilds:
-  lefthook: true
   puppeteer: true
   sharp: true
   sleep: true
